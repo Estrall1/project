@@ -23,7 +23,6 @@ installed.cfg
 MANIFEST
 
 # PyTorch
-*.pth
 *.pt
 *.bin
 
@@ -33,11 +32,11 @@ checkpoints/
 checkpoints_real/
 dataset/
 #models/
-final_model/
-results/
+#final_model/
+#results/
 results_advanced/
 results_real/
-results_simple/
+#results_simple/
 final_test_results/
 
 # 图片文件
