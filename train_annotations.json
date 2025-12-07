@@ -1,0 +1,5610 @@
+[
+  {
+    "id": "0839",
+    "uav_path": "train/street/0839/1.jpg",
+    "sat_path": "train/satellite/0839/0839.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0842",
+    "uav_path": "train/street/0842/1.jpg",
+    "sat_path": "train/satellite/0842/0842.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0843",
+    "uav_path": "train/street/0843/1.jpg",
+    "sat_path": "train/satellite/0843/0843.jpg",
+    "lat": 40.043,
+    "lon": -74.957,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0844",
+    "uav_path": "train/street/0844/1.jpg",
+    "sat_path": "train/satellite/0844/0844.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0845",
+    "uav_path": "train/street/0845/1.jpg",
+    "sat_path": "train/satellite/0845/0845.jpg",
+    "lat": 40.045,
+    "lon": -74.955,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0846",
+    "uav_path": "train/street/0846/1.jpg",
+    "sat_path": "train/satellite/0846/0846.jpg",
+    "lat": 40.046,
+    "lon": -74.954,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0847",
+    "uav_path": "train/street/0847/1.jpg",
+    "sat_path": "train/satellite/0847/0847.jpg",
+    "lat": 40.047,
+    "lon": -74.953,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0849",
+    "uav_path": "train/street/0849/1.jpg",
+    "sat_path": "train/satellite/0849/0849.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0850",
+    "uav_path": "train/street/0850/1.jpg",
+    "sat_path": "train/satellite/0850/0850.jpg",
+    "lat": 40.05,
+    "lon": -74.95,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0852",
+    "uav_path": "train/street/0852/1.jpg",
+    "sat_path": "train/satellite/0852/0852.jpg",
+    "lat": 40.052,
+    "lon": -74.948,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0854",
+    "uav_path": "train/street/0854/1.jpg",
+    "sat_path": "train/satellite/0854/0854.jpg",
+    "lat": 40.054,
+    "lon": -74.946,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0855",
+    "uav_path": "train/street/0855/1.jpg",
+    "sat_path": "train/satellite/0855/0855.jpg",
+    "lat": 40.055,
+    "lon": -74.945,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0856",
+    "uav_path": "train/street/0856/1.jpg",
+    "sat_path": "train/satellite/0856/0856.jpg",
+    "lat": 40.056,
+    "lon": -74.944,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0857",
+    "uav_path": "train/street/0857/1.jpg",
+    "sat_path": "train/satellite/0857/0857.jpg",
+    "lat": 40.057,
+    "lon": -74.943,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0859",
+    "uav_path": "train/street/0859/1.jpg",
+    "sat_path": "train/satellite/0859/0859.jpg",
+    "lat": 40.059,
+    "lon": -74.941,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0862",
+    "uav_path": "train/street/0862/1.jpg",
+    "sat_path": "train/satellite/0862/0862.jpg",
+    "lat": 40.062,
+    "lon": -74.938,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0864",
+    "uav_path": "train/street/0864/1.jpg",
+    "sat_path": "train/satellite/0864/0864.jpg",
+    "lat": 40.064,
+    "lon": -74.936,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0865",
+    "uav_path": "train/street/0865/1.jpg",
+    "sat_path": "train/satellite/0865/0865.jpg",
+    "lat": 40.065,
+    "lon": -74.935,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0866",
+    "uav_path": "train/street/0866/1.jpg",
+    "sat_path": "train/satellite/0866/0866.jpg",
+    "lat": 40.066,
+    "lon": -74.934,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0867",
+    "uav_path": "train/street/0867/1.jpg",
+    "sat_path": "train/satellite/0867/0867.jpg",
+    "lat": 40.067,
+    "lon": -74.933,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0868",
+    "uav_path": "train/street/0868/1.jpg",
+    "sat_path": "train/satellite/0868/0868.jpg",
+    "lat": 40.068,
+    "lon": -74.932,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0869",
+    "uav_path": "train/street/0869/1.jpg",
+    "sat_path": "train/satellite/0869/0869.jpg",
+    "lat": 40.069,
+    "lon": -74.931,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0870",
+    "uav_path": "train/street/0870/1.jpg",
+    "sat_path": "train/satellite/0870/0870.jpg",
+    "lat": 40.07,
+    "lon": -74.93,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0871",
+    "uav_path": "train/street/0871/1.jpg",
+    "sat_path": "train/satellite/0871/0871.jpg",
+    "lat": 40.071,
+    "lon": -74.929,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0872",
+    "uav_path": "train/street/0872/1.jpg",
+    "sat_path": "train/satellite/0872/0872.jpg",
+    "lat": 40.072,
+    "lon": -74.928,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0875",
+    "uav_path": "train/street/0875/1.jpg",
+    "sat_path": "train/satellite/0875/0875.jpg",
+    "lat": 40.075,
+    "lon": -74.925,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0876",
+    "uav_path": "train/street/0876/1.jpg",
+    "sat_path": "train/satellite/0876/0876.jpg",
+    "lat": 40.076,
+    "lon": -74.924,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0877",
+    "uav_path": "train/street/0877/1.jpg",
+    "sat_path": "train/satellite/0877/0877.jpg",
+    "lat": 40.077,
+    "lon": -74.923,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0879",
+    "uav_path": "train/street/0879/1.jpg",
+    "sat_path": "train/satellite/0879/0879.jpg",
+    "lat": 40.079,
+    "lon": -74.921,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0880",
+    "uav_path": "train/street/0880/1.jpg",
+    "sat_path": "train/satellite/0880/0880.jpg",
+    "lat": 40.08,
+    "lon": -74.92,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0881",
+    "uav_path": "train/street/0881/1.jpg",
+    "sat_path": "train/satellite/0881/0881.jpg",
+    "lat": 40.081,
+    "lon": -74.919,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0882",
+    "uav_path": "train/street/0882/1.jpg",
+    "sat_path": "train/satellite/0882/0882.jpg",
+    "lat": 40.082,
+    "lon": -74.918,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0883",
+    "uav_path": "train/street/0883/1.jpg",
+    "sat_path": "train/satellite/0883/0883.jpg",
+    "lat": 40.083,
+    "lon": -74.917,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0884",
+    "uav_path": "train/street/0884/1.jpg",
+    "sat_path": "train/satellite/0884/0884.jpg",
+    "lat": 40.084,
+    "lon": -74.916,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0885",
+    "uav_path": "train/street/0885/1.jpg",
+    "sat_path": "train/satellite/0885/0885.jpg",
+    "lat": 40.085,
+    "lon": -74.915,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0886",
+    "uav_path": "train/street/0886/1.jpg",
+    "sat_path": "train/satellite/0886/0886.jpg",
+    "lat": 40.086,
+    "lon": -74.914,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0887",
+    "uav_path": "train/street/0887/1.jpg",
+    "sat_path": "train/satellite/0887/0887.jpg",
+    "lat": 40.087,
+    "lon": -74.913,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0888",
+    "uav_path": "train/street/0888/1.jpg",
+    "sat_path": "train/satellite/0888/0888.jpg",
+    "lat": 40.088,
+    "lon": -74.912,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0889",
+    "uav_path": "train/street/0889/1.jpg",
+    "sat_path": "train/satellite/0889/0889.jpg",
+    "lat": 40.089,
+    "lon": -74.911,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0890",
+    "uav_path": "train/street/0890/1.jpg",
+    "sat_path": "train/satellite/0890/0890.jpg",
+    "lat": 40.09,
+    "lon": -74.91,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0891",
+    "uav_path": "train/street/0891/1.jpg",
+    "sat_path": "train/satellite/0891/0891.jpg",
+    "lat": 40.091,
+    "lon": -74.909,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0892",
+    "uav_path": "train/street/0892/1.jpg",
+    "sat_path": "train/satellite/0892/0892.jpg",
+    "lat": 40.092,
+    "lon": -74.908,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0893",
+    "uav_path": "train/street/0893/1.jpg",
+    "sat_path": "train/satellite/0893/0893.jpg",
+    "lat": 40.093,
+    "lon": -74.907,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0895",
+    "uav_path": "train/street/0895/1.jpg",
+    "sat_path": "train/satellite/0895/0895.jpg",
+    "lat": 40.095,
+    "lon": -74.905,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0896",
+    "uav_path": "train/street/0896/1.jpg",
+    "sat_path": "train/satellite/0896/0896.jpg",
+    "lat": 40.096,
+    "lon": -74.904,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0898",
+    "uav_path": "train/street/0898/1.jpg",
+    "sat_path": "train/satellite/0898/0898.jpg",
+    "lat": 40.098,
+    "lon": -74.902,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0900",
+    "uav_path": "train/street/0900/1.jpg",
+    "sat_path": "train/satellite/0900/0900.jpg",
+    "lat": 40.0,
+    "lon": -75.0,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0901",
+    "uav_path": "train/street/0901/1.jpg",
+    "sat_path": "train/satellite/0901/0901.jpg",
+    "lat": 40.001,
+    "lon": -74.999,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0902",
+    "uav_path": "train/street/0902/1.jpg",
+    "sat_path": "train/satellite/0902/0902.jpg",
+    "lat": 40.002,
+    "lon": -74.998,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0904",
+    "uav_path": "train/street/0904/1.jpg",
+    "sat_path": "train/satellite/0904/0904.jpg",
+    "lat": 40.004,
+    "lon": -74.996,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0905",
+    "uav_path": "train/street/0905/1.jpg",
+    "sat_path": "train/satellite/0905/0905.jpg",
+    "lat": 40.005,
+    "lon": -74.995,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0906",
+    "uav_path": "train/street/0906/1.jpg",
+    "sat_path": "train/satellite/0906/0906.jpg",
+    "lat": 40.006,
+    "lon": -74.994,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0907",
+    "uav_path": "train/street/0907/1.jpg",
+    "sat_path": "train/satellite/0907/0907.jpg",
+    "lat": 40.007,
+    "lon": -74.993,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0908",
+    "uav_path": "train/street/0908/1.jpg",
+    "sat_path": "train/satellite/0908/0908.jpg",
+    "lat": 40.008,
+    "lon": -74.992,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0909",
+    "uav_path": "train/street/0909/1.jpg",
+    "sat_path": "train/satellite/0909/0909.jpg",
+    "lat": 40.009,
+    "lon": -74.991,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0910",
+    "uav_path": "train/street/0910/1.jpg",
+    "sat_path": "train/satellite/0910/0910.jpg",
+    "lat": 40.01,
+    "lon": -74.99,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0912",
+    "uav_path": "train/street/0912/1.jpg",
+    "sat_path": "train/satellite/0912/0912.jpg",
+    "lat": 40.012,
+    "lon": -74.988,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0913",
+    "uav_path": "train/street/0913/1.jpg",
+    "sat_path": "train/satellite/0913/0913.jpg",
+    "lat": 40.013,
+    "lon": -74.987,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0914",
+    "uav_path": "train/street/0914/1.jpg",
+    "sat_path": "train/satellite/0914/0914.jpg",
+    "lat": 40.014,
+    "lon": -74.986,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0915",
+    "uav_path": "train/street/0915/1.jpg",
+    "sat_path": "train/satellite/0915/0915.jpg",
+    "lat": 40.015,
+    "lon": -74.985,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0916",
+    "uav_path": "train/street/0916/1.jpg",
+    "sat_path": "train/satellite/0916/0916.jpg",
+    "lat": 40.016,
+    "lon": -74.984,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0917",
+    "uav_path": "train/street/0917/1.jpg",
+    "sat_path": "train/satellite/0917/0917.jpg",
+    "lat": 40.017,
+    "lon": -74.983,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0918",
+    "uav_path": "train/street/0918/1.jpg",
+    "sat_path": "train/satellite/0918/0918.jpg",
+    "lat": 40.018,
+    "lon": -74.982,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0921",
+    "uav_path": "train/street/0921/1.jpg",
+    "sat_path": "train/satellite/0921/0921.jpg",
+    "lat": 40.021,
+    "lon": -74.979,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0922",
+    "uav_path": "train/street/0922/1.jpg",
+    "sat_path": "train/satellite/0922/0922.jpg",
+    "lat": 40.022,
+    "lon": -74.978,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0924",
+    "uav_path": "train/street/0924/1.jpg",
+    "sat_path": "train/satellite/0924/0924.jpg",
+    "lat": 40.024,
+    "lon": -74.976,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0925",
+    "uav_path": "train/street/0925/1.jpg",
+    "sat_path": "train/satellite/0925/0925.jpg",
+    "lat": 40.025,
+    "lon": -74.975,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0926",
+    "uav_path": "train/street/0926/1.jpg",
+    "sat_path": "train/satellite/0926/0926.jpg",
+    "lat": 40.026,
+    "lon": -74.974,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0927",
+    "uav_path": "train/street/0927/1.jpg",
+    "sat_path": "train/satellite/0927/0927.jpg",
+    "lat": 40.027,
+    "lon": -74.973,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0928",
+    "uav_path": "train/street/0928/1.jpg",
+    "sat_path": "train/satellite/0928/0928.jpg",
+    "lat": 40.028,
+    "lon": -74.972,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0930",
+    "uav_path": "train/street/0930/1.jpg",
+    "sat_path": "train/satellite/0930/0930.jpg",
+    "lat": 40.03,
+    "lon": -74.97,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0931",
+    "uav_path": "train/street/0931/1.jpg",
+    "sat_path": "train/satellite/0931/0931.jpg",
+    "lat": 40.031,
+    "lon": -74.969,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0932",
+    "uav_path": "train/street/0932/1.jpg",
+    "sat_path": "train/satellite/0932/0932.jpg",
+    "lat": 40.032,
+    "lon": -74.968,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0933",
+    "uav_path": "train/street/0933/1.jpg",
+    "sat_path": "train/satellite/0933/0933.jpg",
+    "lat": 40.033,
+    "lon": -74.967,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0934",
+    "uav_path": "train/street/0934/1.jpg",
+    "sat_path": "train/satellite/0934/0934.jpg",
+    "lat": 40.034,
+    "lon": -74.966,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0935",
+    "uav_path": "train/street/0935/1.jpg",
+    "sat_path": "train/satellite/0935/0935.jpg",
+    "lat": 40.035,
+    "lon": -74.965,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0936",
+    "uav_path": "train/street/0936/1.jpg",
+    "sat_path": "train/satellite/0936/0936.jpg",
+    "lat": 40.036,
+    "lon": -74.964,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0937",
+    "uav_path": "train/street/0937/1.jpg",
+    "sat_path": "train/satellite/0937/0937.jpg",
+    "lat": 40.037,
+    "lon": -74.963,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0939",
+    "uav_path": "train/street/0939/1.jpg",
+    "sat_path": "train/satellite/0939/0939.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0942",
+    "uav_path": "train/street/0942/1.jpg",
+    "sat_path": "train/satellite/0942/0942.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0943",
+    "uav_path": "train/street/0943/1.jpg",
+    "sat_path": "train/satellite/0943/0943.jpg",
+    "lat": 40.043,
+    "lon": -74.957,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0944",
+    "uav_path": "train/street/0944/1.jpg",
+    "sat_path": "train/satellite/0944/0944.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0945",
+    "uav_path": "train/street/0945/1.jpg",
+    "sat_path": "train/satellite/0945/0945.jpg",
+    "lat": 40.045,
+    "lon": -74.955,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0946",
+    "uav_path": "train/street/0946/1.jpg",
+    "sat_path": "train/satellite/0946/0946.jpg",
+    "lat": 40.046,
+    "lon": -74.954,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0947",
+    "uav_path": "train/street/0947/1.jpg",
+    "sat_path": "train/satellite/0947/0947.jpg",
+    "lat": 40.047,
+    "lon": -74.953,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0948",
+    "uav_path": "train/street/0948/1.jpg",
+    "sat_path": "train/satellite/0948/0948.jpg",
+    "lat": 40.048,
+    "lon": -74.952,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0949",
+    "uav_path": "train/street/0949/1.jpg",
+    "sat_path": "train/satellite/0949/0949.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0950",
+    "uav_path": "train/street/0950/1.jpg",
+    "sat_path": "train/satellite/0950/0950.jpg",
+    "lat": 40.05,
+    "lon": -74.95,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0951",
+    "uav_path": "train/street/0951/1.jpg",
+    "sat_path": "train/satellite/0951/0951.jpg",
+    "lat": 40.051,
+    "lon": -74.949,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0952",
+    "uav_path": "train/street/0952/1.jpg",
+    "sat_path": "train/satellite/0952/0952.jpg",
+    "lat": 40.052,
+    "lon": -74.948,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0953",
+    "uav_path": "train/street/0953/1.jpg",
+    "sat_path": "train/satellite/0953/0953.jpg",
+    "lat": 40.053,
+    "lon": -74.947,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0954",
+    "uav_path": "train/street/0954/1.jpg",
+    "sat_path": "train/satellite/0954/0954.jpg",
+    "lat": 40.054,
+    "lon": -74.946,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0955",
+    "uav_path": "train/street/0955/1.jpg",
+    "sat_path": "train/satellite/0955/0955.jpg",
+    "lat": 40.055,
+    "lon": -74.945,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0956",
+    "uav_path": "train/street/0956/1.jpg",
+    "sat_path": "train/satellite/0956/0956.jpg",
+    "lat": 40.056,
+    "lon": -74.944,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0957",
+    "uav_path": "train/street/0957/1.jpg",
+    "sat_path": "train/satellite/0957/0957.jpg",
+    "lat": 40.057,
+    "lon": -74.943,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0959",
+    "uav_path": "train/street/0959/1.jpg",
+    "sat_path": "train/satellite/0959/0959.jpg",
+    "lat": 40.059,
+    "lon": -74.941,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0960",
+    "uav_path": "train/street/0960/1.jpg",
+    "sat_path": "train/satellite/0960/0960.jpg",
+    "lat": 40.06,
+    "lon": -74.94,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0961",
+    "uav_path": "train/street/0961/1.jpg",
+    "sat_path": "train/satellite/0961/0961.jpg",
+    "lat": 40.061,
+    "lon": -74.939,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0962",
+    "uav_path": "train/street/0962/1.jpg",
+    "sat_path": "train/satellite/0962/0962.jpg",
+    "lat": 40.062,
+    "lon": -74.938,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0963",
+    "uav_path": "train/street/0963/1.jpg",
+    "sat_path": "train/satellite/0963/0963.jpg",
+    "lat": 40.063,
+    "lon": -74.937,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0966",
+    "uav_path": "train/street/0966/1.jpg",
+    "sat_path": "train/satellite/0966/0966.jpg",
+    "lat": 40.066,
+    "lon": -74.934,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0967",
+    "uav_path": "train/street/0967/1.jpg",
+    "sat_path": "train/satellite/0967/0967.jpg",
+    "lat": 40.067,
+    "lon": -74.933,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0969",
+    "uav_path": "train/street/0969/1.jpg",
+    "sat_path": "train/satellite/0969/0969.jpg",
+    "lat": 40.069,
+    "lon": -74.931,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0970",
+    "uav_path": "train/street/0970/1.jpg",
+    "sat_path": "train/satellite/0970/0970.jpg",
+    "lat": 40.07,
+    "lon": -74.93,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0971",
+    "uav_path": "train/street/0971/1.jpg",
+    "sat_path": "train/satellite/0971/0971.jpg",
+    "lat": 40.071,
+    "lon": -74.929,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0972",
+    "uav_path": "train/street/0972/1.jpg",
+    "sat_path": "train/satellite/0972/0972.jpg",
+    "lat": 40.072,
+    "lon": -74.928,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0973",
+    "uav_path": "train/street/0973/1.jpg",
+    "sat_path": "train/satellite/0973/0973.jpg",
+    "lat": 40.073,
+    "lon": -74.927,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0974",
+    "uav_path": "train/street/0974/1.jpg",
+    "sat_path": "train/satellite/0974/0974.jpg",
+    "lat": 40.074,
+    "lon": -74.926,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0975",
+    "uav_path": "train/street/0975/1.jpg",
+    "sat_path": "train/satellite/0975/0975.jpg",
+    "lat": 40.075,
+    "lon": -74.925,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0976",
+    "uav_path": "train/street/0976/1.jpg",
+    "sat_path": "train/satellite/0976/0976.jpg",
+    "lat": 40.076,
+    "lon": -74.924,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0977",
+    "uav_path": "train/street/0977/1.jpg",
+    "sat_path": "train/satellite/0977/0977.jpg",
+    "lat": 40.077,
+    "lon": -74.923,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0980",
+    "uav_path": "train/street/0980/1.jpg",
+    "sat_path": "train/satellite/0980/0980.jpg",
+    "lat": 40.08,
+    "lon": -74.92,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0981",
+    "uav_path": "train/street/0981/1.jpg",
+    "sat_path": "train/satellite/0981/0981.jpg",
+    "lat": 40.081,
+    "lon": -74.919,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0982",
+    "uav_path": "train/street/0982/1.jpg",
+    "sat_path": "train/satellite/0982/0982.jpg",
+    "lat": 40.082,
+    "lon": -74.918,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0983",
+    "uav_path": "train/street/0983/1.jpg",
+    "sat_path": "train/satellite/0983/0983.jpg",
+    "lat": 40.083,
+    "lon": -74.917,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0984",
+    "uav_path": "train/street/0984/1.jpg",
+    "sat_path": "train/satellite/0984/0984.jpg",
+    "lat": 40.084,
+    "lon": -74.916,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0985",
+    "uav_path": "train/street/0985/1.jpg",
+    "sat_path": "train/satellite/0985/0985.jpg",
+    "lat": 40.085,
+    "lon": -74.915,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0986",
+    "uav_path": "train/street/0986/1.jpg",
+    "sat_path": "train/satellite/0986/0986.jpg",
+    "lat": 40.086,
+    "lon": -74.914,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0987",
+    "uav_path": "train/street/0987/1.jpg",
+    "sat_path": "train/satellite/0987/0987.jpg",
+    "lat": 40.087,
+    "lon": -74.913,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0988",
+    "uav_path": "train/street/0988/1.jpg",
+    "sat_path": "train/satellite/0988/0988.jpg",
+    "lat": 40.088,
+    "lon": -74.912,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0989",
+    "uav_path": "train/street/0989/1.jpg",
+    "sat_path": "train/satellite/0989/0989.jpg",
+    "lat": 40.089,
+    "lon": -74.911,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0990",
+    "uav_path": "train/street/0990/1.jpg",
+    "sat_path": "train/satellite/0990/0990.jpg",
+    "lat": 40.09,
+    "lon": -74.91,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0991",
+    "uav_path": "train/street/0991/1.jpg",
+    "sat_path": "train/satellite/0991/0991.jpg",
+    "lat": 40.091,
+    "lon": -74.909,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0992",
+    "uav_path": "train/street/0992/1.jpg",
+    "sat_path": "train/satellite/0992/0992.jpg",
+    "lat": 40.092,
+    "lon": -74.908,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0993",
+    "uav_path": "train/street/0993/1.jpg",
+    "sat_path": "train/satellite/0993/0993.jpg",
+    "lat": 40.093,
+    "lon": -74.907,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0994",
+    "uav_path": "train/street/0994/1.jpg",
+    "sat_path": "train/satellite/0994/0994.jpg",
+    "lat": 40.094,
+    "lon": -74.906,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0995",
+    "uav_path": "train/street/0995/1.jpg",
+    "sat_path": "train/satellite/0995/0995.jpg",
+    "lat": 40.095,
+    "lon": -74.905,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0996",
+    "uav_path": "train/street/0996/1.jpg",
+    "sat_path": "train/satellite/0996/0996.jpg",
+    "lat": 40.096,
+    "lon": -74.904,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0997",
+    "uav_path": "train/street/0997/1.jpg",
+    "sat_path": "train/satellite/0997/0997.jpg",
+    "lat": 40.097,
+    "lon": -74.903,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0998",
+    "uav_path": "train/street/0998/1.jpg",
+    "sat_path": "train/satellite/0998/0998.jpg",
+    "lat": 40.098,
+    "lon": -74.902,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "0999",
+    "uav_path": "train/street/0999/1.jpg",
+    "sat_path": "train/satellite/0999/0999.jpg",
+    "lat": 40.099,
+    "lon": -74.901,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1000",
+    "uav_path": "train/street/1000/1.jpg",
+    "sat_path": "train/satellite/1000/1000.jpg",
+    "lat": 40.0,
+    "lon": -75.0,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1001",
+    "uav_path": "train/street/1001/1.jpg",
+    "sat_path": "train/satellite/1001/1001.jpg",
+    "lat": 40.001,
+    "lon": -74.999,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1002",
+    "uav_path": "train/street/1002/1.jpg",
+    "sat_path": "train/satellite/1002/1002.jpg",
+    "lat": 40.002,
+    "lon": -74.998,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1004",
+    "uav_path": "train/street/1004/1.jpg",
+    "sat_path": "train/satellite/1004/1004.jpg",
+    "lat": 40.004,
+    "lon": -74.996,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1005",
+    "uav_path": "train/street/1005/1.jpg",
+    "sat_path": "train/satellite/1005/1005.jpg",
+    "lat": 40.005,
+    "lon": -74.995,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1006",
+    "uav_path": "train/street/1006/1.jpg",
+    "sat_path": "train/satellite/1006/1006.jpg",
+    "lat": 40.006,
+    "lon": -74.994,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1007",
+    "uav_path": "train/street/1007/1.jpg",
+    "sat_path": "train/satellite/1007/1007.jpg",
+    "lat": 40.007,
+    "lon": -74.993,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1008",
+    "uav_path": "train/street/1008/1.jpg",
+    "sat_path": "train/satellite/1008/1008.jpg",
+    "lat": 40.008,
+    "lon": -74.992,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1010",
+    "uav_path": "train/street/1010/1.jpg",
+    "sat_path": "train/satellite/1010/1010.jpg",
+    "lat": 40.01,
+    "lon": -74.99,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1011",
+    "uav_path": "train/street/1011/1.jpg",
+    "sat_path": "train/satellite/1011/1011.jpg",
+    "lat": 40.011,
+    "lon": -74.989,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1012",
+    "uav_path": "train/street/1012/1.jpg",
+    "sat_path": "train/satellite/1012/1012.jpg",
+    "lat": 40.012,
+    "lon": -74.988,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1014",
+    "uav_path": "train/street/1014/1.jpg",
+    "sat_path": "train/satellite/1014/1014.jpg",
+    "lat": 40.014,
+    "lon": -74.986,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1015",
+    "uav_path": "train/street/1015/1.jpg",
+    "sat_path": "train/satellite/1015/1015.jpg",
+    "lat": 40.015,
+    "lon": -74.985,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1016",
+    "uav_path": "train/street/1016/1.jpg",
+    "sat_path": "train/satellite/1016/1016.jpg",
+    "lat": 40.016,
+    "lon": -74.984,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1018",
+    "uav_path": "train/street/1018/1.jpg",
+    "sat_path": "train/satellite/1018/1018.jpg",
+    "lat": 40.018,
+    "lon": -74.982,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1019",
+    "uav_path": "train/street/1019/1.jpg",
+    "sat_path": "train/satellite/1019/1019.jpg",
+    "lat": 40.019,
+    "lon": -74.981,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1020",
+    "uav_path": "train/street/1020/1.jpg",
+    "sat_path": "train/satellite/1020/1020.jpg",
+    "lat": 40.02,
+    "lon": -74.98,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1021",
+    "uav_path": "train/street/1021/1.jpg",
+    "sat_path": "train/satellite/1021/1021.jpg",
+    "lat": 40.021,
+    "lon": -74.979,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1022",
+    "uav_path": "train/street/1022/1.jpg",
+    "sat_path": "train/satellite/1022/1022.jpg",
+    "lat": 40.022,
+    "lon": -74.978,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1023",
+    "uav_path": "train/street/1023/1.jpg",
+    "sat_path": "train/satellite/1023/1023.jpg",
+    "lat": 40.023,
+    "lon": -74.977,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1024",
+    "uav_path": "train/street/1024/1.jpg",
+    "sat_path": "train/satellite/1024/1024.jpg",
+    "lat": 40.024,
+    "lon": -74.976,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1025",
+    "uav_path": "train/street/1025/1.jpg",
+    "sat_path": "train/satellite/1025/1025.jpg",
+    "lat": 40.025,
+    "lon": -74.975,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1026",
+    "uav_path": "train/street/1026/1.jpg",
+    "sat_path": "train/satellite/1026/1026.jpg",
+    "lat": 40.026,
+    "lon": -74.974,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1027",
+    "uav_path": "train/street/1027/1.jpg",
+    "sat_path": "train/satellite/1027/1027.jpg",
+    "lat": 40.027,
+    "lon": -74.973,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1028",
+    "uav_path": "train/street/1028/1.jpg",
+    "sat_path": "train/satellite/1028/1028.jpg",
+    "lat": 40.028,
+    "lon": -74.972,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1029",
+    "uav_path": "train/street/1029/1.jpg",
+    "sat_path": "train/satellite/1029/1029.jpg",
+    "lat": 40.029,
+    "lon": -74.971,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1030",
+    "uav_path": "train/street/1030/1.jpg",
+    "sat_path": "train/satellite/1030/1030.jpg",
+    "lat": 40.03,
+    "lon": -74.97,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1031",
+    "uav_path": "train/street/1031/1.jpg",
+    "sat_path": "train/satellite/1031/1031.jpg",
+    "lat": 40.031,
+    "lon": -74.969,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1033",
+    "uav_path": "train/street/1033/1.jpg",
+    "sat_path": "train/satellite/1033/1033.jpg",
+    "lat": 40.033,
+    "lon": -74.967,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1034",
+    "uav_path": "train/street/1034/1.jpg",
+    "sat_path": "train/satellite/1034/1034.jpg",
+    "lat": 40.034,
+    "lon": -74.966,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1035",
+    "uav_path": "train/street/1035/1.jpg",
+    "sat_path": "train/satellite/1035/1035.jpg",
+    "lat": 40.035,
+    "lon": -74.965,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1036",
+    "uav_path": "train/street/1036/1.jpg",
+    "sat_path": "train/satellite/1036/1036.jpg",
+    "lat": 40.036,
+    "lon": -74.964,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1037",
+    "uav_path": "train/street/1037/1.jpg",
+    "sat_path": "train/satellite/1037/1037.jpg",
+    "lat": 40.037,
+    "lon": -74.963,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1038",
+    "uav_path": "train/street/1038/1.jpg",
+    "sat_path": "train/satellite/1038/1038.jpg",
+    "lat": 40.038,
+    "lon": -74.962,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1039",
+    "uav_path": "train/street/1039/1.jpg",
+    "sat_path": "train/satellite/1039/1039.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1040",
+    "uav_path": "train/street/1040/1.jpg",
+    "sat_path": "train/satellite/1040/1040.jpg",
+    "lat": 40.04,
+    "lon": -74.96,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1041",
+    "uav_path": "train/street/1041/1.jpg",
+    "sat_path": "train/satellite/1041/1041.jpg",
+    "lat": 40.041,
+    "lon": -74.959,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1042",
+    "uav_path": "train/street/1042/1.jpg",
+    "sat_path": "train/satellite/1042/1042.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1043",
+    "uav_path": "train/street/1043/1.jpg",
+    "sat_path": "train/satellite/1043/1043.jpg",
+    "lat": 40.043,
+    "lon": -74.957,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1044",
+    "uav_path": "train/street/1044/1.jpg",
+    "sat_path": "train/satellite/1044/1044.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1045",
+    "uav_path": "train/street/1045/1.jpg",
+    "sat_path": "train/satellite/1045/1045.jpg",
+    "lat": 40.045,
+    "lon": -74.955,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1046",
+    "uav_path": "train/street/1046/1.jpg",
+    "sat_path": "train/satellite/1046/1046.jpg",
+    "lat": 40.046,
+    "lon": -74.954,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1047",
+    "uav_path": "train/street/1047/1.jpg",
+    "sat_path": "train/satellite/1047/1047.jpg",
+    "lat": 40.047,
+    "lon": -74.953,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1048",
+    "uav_path": "train/street/1048/1.jpg",
+    "sat_path": "train/satellite/1048/1048.jpg",
+    "lat": 40.048,
+    "lon": -74.952,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1049",
+    "uav_path": "train/street/1049/1.jpg",
+    "sat_path": "train/satellite/1049/1049.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1050",
+    "uav_path": "train/street/1050/1.jpg",
+    "sat_path": "train/satellite/1050/1050.jpg",
+    "lat": 40.05,
+    "lon": -74.95,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1052",
+    "uav_path": "train/street/1052/1.jpg",
+    "sat_path": "train/satellite/1052/1052.jpg",
+    "lat": 40.052,
+    "lon": -74.948,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1053",
+    "uav_path": "train/street/1053/1.jpg",
+    "sat_path": "train/satellite/1053/1053.jpg",
+    "lat": 40.053,
+    "lon": -74.947,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1054",
+    "uav_path": "train/street/1054/1.jpg",
+    "sat_path": "train/satellite/1054/1054.jpg",
+    "lat": 40.054,
+    "lon": -74.946,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1055",
+    "uav_path": "train/street/1055/1.jpg",
+    "sat_path": "train/satellite/1055/1055.jpg",
+    "lat": 40.055,
+    "lon": -74.945,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1056",
+    "uav_path": "train/street/1056/1.jpg",
+    "sat_path": "train/satellite/1056/1056.jpg",
+    "lat": 40.056,
+    "lon": -74.944,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1057",
+    "uav_path": "train/street/1057/1.jpg",
+    "sat_path": "train/satellite/1057/1057.jpg",
+    "lat": 40.057,
+    "lon": -74.943,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1058",
+    "uav_path": "train/street/1058/1.jpg",
+    "sat_path": "train/satellite/1058/1058.jpg",
+    "lat": 40.058,
+    "lon": -74.942,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1059",
+    "uav_path": "train/street/1059/1.jpg",
+    "sat_path": "train/satellite/1059/1059.jpg",
+    "lat": 40.059,
+    "lon": -74.941,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1060",
+    "uav_path": "train/street/1060/1.jpg",
+    "sat_path": "train/satellite/1060/1060.jpg",
+    "lat": 40.06,
+    "lon": -74.94,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1061",
+    "uav_path": "train/street/1061/1.jpg",
+    "sat_path": "train/satellite/1061/1061.jpg",
+    "lat": 40.061,
+    "lon": -74.939,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1063",
+    "uav_path": "train/street/1063/1.jpg",
+    "sat_path": "train/satellite/1063/1063.jpg",
+    "lat": 40.063,
+    "lon": -74.937,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1064",
+    "uav_path": "train/street/1064/1.jpg",
+    "sat_path": "train/satellite/1064/1064.jpg",
+    "lat": 40.064,
+    "lon": -74.936,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1065",
+    "uav_path": "train/street/1065/1.jpg",
+    "sat_path": "train/satellite/1065/1065.jpg",
+    "lat": 40.065,
+    "lon": -74.935,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1066",
+    "uav_path": "train/street/1066/1.jpg",
+    "sat_path": "train/satellite/1066/1066.jpg",
+    "lat": 40.066,
+    "lon": -74.934,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1067",
+    "uav_path": "train/street/1067/1.jpg",
+    "sat_path": "train/satellite/1067/1067.jpg",
+    "lat": 40.067,
+    "lon": -74.933,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1068",
+    "uav_path": "train/street/1068/1.jpg",
+    "sat_path": "train/satellite/1068/1068.jpg",
+    "lat": 40.068,
+    "lon": -74.932,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1069",
+    "uav_path": "train/street/1069/1.jpg",
+    "sat_path": "train/satellite/1069/1069.jpg",
+    "lat": 40.069,
+    "lon": -74.931,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1070",
+    "uav_path": "train/street/1070/1.jpg",
+    "sat_path": "train/satellite/1070/1070.jpg",
+    "lat": 40.07,
+    "lon": -74.93,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1071",
+    "uav_path": "train/street/1071/1.jpg",
+    "sat_path": "train/satellite/1071/1071.jpg",
+    "lat": 40.071,
+    "lon": -74.929,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1073",
+    "uav_path": "train/street/1073/1.jpg",
+    "sat_path": "train/satellite/1073/1073.jpg",
+    "lat": 40.073,
+    "lon": -74.927,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1074",
+    "uav_path": "train/street/1074/1.jpg",
+    "sat_path": "train/satellite/1074/1074.jpg",
+    "lat": 40.074,
+    "lon": -74.926,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1076",
+    "uav_path": "train/street/1076/1.jpg",
+    "sat_path": "train/satellite/1076/1076.jpg",
+    "lat": 40.076,
+    "lon": -74.924,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1078",
+    "uav_path": "train/street/1078/1.jpg",
+    "sat_path": "train/satellite/1078/1078.jpg",
+    "lat": 40.078,
+    "lon": -74.922,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1079",
+    "uav_path": "train/street/1079/1.jpg",
+    "sat_path": "train/satellite/1079/1079.jpg",
+    "lat": 40.079,
+    "lon": -74.921,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1080",
+    "uav_path": "train/street/1080/1.jpg",
+    "sat_path": "train/satellite/1080/1080.jpg",
+    "lat": 40.08,
+    "lon": -74.92,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1082",
+    "uav_path": "train/street/1082/1.jpg",
+    "sat_path": "train/satellite/1082/1082.jpg",
+    "lat": 40.082,
+    "lon": -74.918,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1083",
+    "uav_path": "train/street/1083/1.jpg",
+    "sat_path": "train/satellite/1083/1083.jpg",
+    "lat": 40.083,
+    "lon": -74.917,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1084",
+    "uav_path": "train/street/1084/1.jpg",
+    "sat_path": "train/satellite/1084/1084.jpg",
+    "lat": 40.084,
+    "lon": -74.916,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1085",
+    "uav_path": "train/street/1085/1.jpg",
+    "sat_path": "train/satellite/1085/1085.jpg",
+    "lat": 40.085,
+    "lon": -74.915,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1086",
+    "uav_path": "train/street/1086/1.jpg",
+    "sat_path": "train/satellite/1086/1086.jpg",
+    "lat": 40.086,
+    "lon": -74.914,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1087",
+    "uav_path": "train/street/1087/1.jpg",
+    "sat_path": "train/satellite/1087/1087.jpg",
+    "lat": 40.087,
+    "lon": -74.913,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1088",
+    "uav_path": "train/street/1088/1.jpg",
+    "sat_path": "train/satellite/1088/1088.jpg",
+    "lat": 40.088,
+    "lon": -74.912,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1089",
+    "uav_path": "train/street/1089/1.jpg",
+    "sat_path": "train/satellite/1089/1089.jpg",
+    "lat": 40.089,
+    "lon": -74.911,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1090",
+    "uav_path": "train/street/1090/1.jpg",
+    "sat_path": "train/satellite/1090/1090.jpg",
+    "lat": 40.09,
+    "lon": -74.91,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1091",
+    "uav_path": "train/street/1091/1.jpg",
+    "sat_path": "train/satellite/1091/1091.jpg",
+    "lat": 40.091,
+    "lon": -74.909,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1092",
+    "uav_path": "train/street/1092/1.jpg",
+    "sat_path": "train/satellite/1092/1092.jpg",
+    "lat": 40.092,
+    "lon": -74.908,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1093",
+    "uav_path": "train/street/1093/1.jpg",
+    "sat_path": "train/satellite/1093/1093.jpg",
+    "lat": 40.093,
+    "lon": -74.907,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1094",
+    "uav_path": "train/street/1094/1.jpg",
+    "sat_path": "train/satellite/1094/1094.jpg",
+    "lat": 40.094,
+    "lon": -74.906,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1095",
+    "uav_path": "train/street/1095/1.jpg",
+    "sat_path": "train/satellite/1095/1095.jpg",
+    "lat": 40.095,
+    "lon": -74.905,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1096",
+    "uav_path": "train/street/1096/1.jpg",
+    "sat_path": "train/satellite/1096/1096.jpg",
+    "lat": 40.096,
+    "lon": -74.904,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1097",
+    "uav_path": "train/street/1097/1.jpg",
+    "sat_path": "train/satellite/1097/1097.jpg",
+    "lat": 40.097,
+    "lon": -74.903,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1098",
+    "uav_path": "train/street/1098/1.jpg",
+    "sat_path": "train/satellite/1098/1098.jpg",
+    "lat": 40.098,
+    "lon": -74.902,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1099",
+    "uav_path": "train/street/1099/1.jpg",
+    "sat_path": "train/satellite/1099/1099.jpg",
+    "lat": 40.099,
+    "lon": -74.901,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1100",
+    "uav_path": "train/street/1100/1.jpg",
+    "sat_path": "train/satellite/1100/1100.jpg",
+    "lat": 40.0,
+    "lon": -75.0,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1101",
+    "uav_path": "train/street/1101/1.jpg",
+    "sat_path": "train/satellite/1101/1101.jpg",
+    "lat": 40.001,
+    "lon": -74.999,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1102",
+    "uav_path": "train/street/1102/1.jpg",
+    "sat_path": "train/satellite/1102/1102.jpg",
+    "lat": 40.002,
+    "lon": -74.998,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1103",
+    "uav_path": "train/street/1103/1.jpg",
+    "sat_path": "train/satellite/1103/1103.jpg",
+    "lat": 40.003,
+    "lon": -74.997,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1105",
+    "uav_path": "train/street/1105/1.jpg",
+    "sat_path": "train/satellite/1105/1105.jpg",
+    "lat": 40.005,
+    "lon": -74.995,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1106",
+    "uav_path": "train/street/1106/1.jpg",
+    "sat_path": "train/satellite/1106/1106.jpg",
+    "lat": 40.006,
+    "lon": -74.994,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1107",
+    "uav_path": "train/street/1107/1.jpg",
+    "sat_path": "train/satellite/1107/1107.jpg",
+    "lat": 40.007,
+    "lon": -74.993,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1108",
+    "uav_path": "train/street/1108/1.jpg",
+    "sat_path": "train/satellite/1108/1108.jpg",
+    "lat": 40.008,
+    "lon": -74.992,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1109",
+    "uav_path": "train/street/1109/1.jpg",
+    "sat_path": "train/satellite/1109/1109.jpg",
+    "lat": 40.009,
+    "lon": -74.991,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1110",
+    "uav_path": "train/street/1110/1.jpg",
+    "sat_path": "train/satellite/1110/1110.jpg",
+    "lat": 40.01,
+    "lon": -74.99,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1111",
+    "uav_path": "train/street/1111/1.jpg",
+    "sat_path": "train/satellite/1111/1111.jpg",
+    "lat": 40.011,
+    "lon": -74.989,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1112",
+    "uav_path": "train/street/1112/1.jpg",
+    "sat_path": "train/satellite/1112/1112.jpg",
+    "lat": 40.012,
+    "lon": -74.988,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1113",
+    "uav_path": "train/street/1113/1.jpg",
+    "sat_path": "train/satellite/1113/1113.jpg",
+    "lat": 40.013,
+    "lon": -74.987,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1114",
+    "uav_path": "train/street/1114/1.jpg",
+    "sat_path": "train/satellite/1114/1114.jpg",
+    "lat": 40.014,
+    "lon": -74.986,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1115",
+    "uav_path": "train/street/1115/1.jpg",
+    "sat_path": "train/satellite/1115/1115.jpg",
+    "lat": 40.015,
+    "lon": -74.985,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1116",
+    "uav_path": "train/street/1116/1.jpg",
+    "sat_path": "train/satellite/1116/1116.jpg",
+    "lat": 40.016,
+    "lon": -74.984,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1117",
+    "uav_path": "train/street/1117/1.jpg",
+    "sat_path": "train/satellite/1117/1117.jpg",
+    "lat": 40.017,
+    "lon": -74.983,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1118",
+    "uav_path": "train/street/1118/1.jpg",
+    "sat_path": "train/satellite/1118/1118.jpg",
+    "lat": 40.018,
+    "lon": -74.982,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1119",
+    "uav_path": "train/street/1119/1.jpg",
+    "sat_path": "train/satellite/1119/1119.jpg",
+    "lat": 40.019,
+    "lon": -74.981,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1120",
+    "uav_path": "train/street/1120/1.jpg",
+    "sat_path": "train/satellite/1120/1120.jpg",
+    "lat": 40.02,
+    "lon": -74.98,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1121",
+    "uav_path": "train/street/1121/1.jpg",
+    "sat_path": "train/satellite/1121/1121.jpg",
+    "lat": 40.021,
+    "lon": -74.979,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1122",
+    "uav_path": "train/street/1122/1.jpg",
+    "sat_path": "train/satellite/1122/1122.jpg",
+    "lat": 40.022,
+    "lon": -74.978,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1123",
+    "uav_path": "train/street/1123/1.jpg",
+    "sat_path": "train/satellite/1123/1123.jpg",
+    "lat": 40.023,
+    "lon": -74.977,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1124",
+    "uav_path": "train/street/1124/1.jpg",
+    "sat_path": "train/satellite/1124/1124.jpg",
+    "lat": 40.024,
+    "lon": -74.976,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1125",
+    "uav_path": "train/street/1125/1.jpg",
+    "sat_path": "train/satellite/1125/1125.jpg",
+    "lat": 40.025,
+    "lon": -74.975,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1126",
+    "uav_path": "train/street/1126/1.jpg",
+    "sat_path": "train/satellite/1126/1126.jpg",
+    "lat": 40.026,
+    "lon": -74.974,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1127",
+    "uav_path": "train/street/1127/1.jpg",
+    "sat_path": "train/satellite/1127/1127.jpg",
+    "lat": 40.027,
+    "lon": -74.973,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1128",
+    "uav_path": "train/street/1128/1.jpg",
+    "sat_path": "train/satellite/1128/1128.jpg",
+    "lat": 40.028,
+    "lon": -74.972,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1129",
+    "uav_path": "train/street/1129/1.jpg",
+    "sat_path": "train/satellite/1129/1129.jpg",
+    "lat": 40.029,
+    "lon": -74.971,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1130",
+    "uav_path": "train/street/1130/1.jpg",
+    "sat_path": "train/satellite/1130/1130.jpg",
+    "lat": 40.03,
+    "lon": -74.97,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1131",
+    "uav_path": "train/street/1131/1.jpg",
+    "sat_path": "train/satellite/1131/1131.jpg",
+    "lat": 40.031,
+    "lon": -74.969,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1132",
+    "uav_path": "train/street/1132/1.jpg",
+    "sat_path": "train/satellite/1132/1132.jpg",
+    "lat": 40.032,
+    "lon": -74.968,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1133",
+    "uav_path": "train/street/1133/1.jpg",
+    "sat_path": "train/satellite/1133/1133.jpg",
+    "lat": 40.033,
+    "lon": -74.967,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1134",
+    "uav_path": "train/street/1134/1.jpg",
+    "sat_path": "train/satellite/1134/1134.jpg",
+    "lat": 40.034,
+    "lon": -74.966,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1135",
+    "uav_path": "train/street/1135/1.jpg",
+    "sat_path": "train/satellite/1135/1135.jpg",
+    "lat": 40.035,
+    "lon": -74.965,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1136",
+    "uav_path": "train/street/1136/1.jpg",
+    "sat_path": "train/satellite/1136/1136.jpg",
+    "lat": 40.036,
+    "lon": -74.964,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1137",
+    "uav_path": "train/street/1137/1.jpg",
+    "sat_path": "train/satellite/1137/1137.jpg",
+    "lat": 40.037,
+    "lon": -74.963,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1138",
+    "uav_path": "train/street/1138/1.jpg",
+    "sat_path": "train/satellite/1138/1138.jpg",
+    "lat": 40.038,
+    "lon": -74.962,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1139",
+    "uav_path": "train/street/1139/1.jpg",
+    "sat_path": "train/satellite/1139/1139.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1140",
+    "uav_path": "train/street/1140/1.jpg",
+    "sat_path": "train/satellite/1140/1140.jpg",
+    "lat": 40.04,
+    "lon": -74.96,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1141",
+    "uav_path": "train/street/1141/1.jpg",
+    "sat_path": "train/satellite/1141/1141.jpg",
+    "lat": 40.041,
+    "lon": -74.959,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1142",
+    "uav_path": "train/street/1142/1.jpg",
+    "sat_path": "train/satellite/1142/1142.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1143",
+    "uav_path": "train/street/1143/1.jpg",
+    "sat_path": "train/satellite/1143/1143.jpg",
+    "lat": 40.043,
+    "lon": -74.957,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1144",
+    "uav_path": "train/street/1144/1.jpg",
+    "sat_path": "train/satellite/1144/1144.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1145",
+    "uav_path": "train/street/1145/1.jpg",
+    "sat_path": "train/satellite/1145/1145.jpg",
+    "lat": 40.045,
+    "lon": -74.955,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1146",
+    "uav_path": "train/street/1146/1.jpg",
+    "sat_path": "train/satellite/1146/1146.jpg",
+    "lat": 40.046,
+    "lon": -74.954,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1148",
+    "uav_path": "train/street/1148/1.jpg",
+    "sat_path": "train/satellite/1148/1148.jpg",
+    "lat": 40.048,
+    "lon": -74.952,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1149",
+    "uav_path": "train/street/1149/1.jpg",
+    "sat_path": "train/satellite/1149/1149.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1150",
+    "uav_path": "train/street/1150/1.jpg",
+    "sat_path": "train/satellite/1150/1150.jpg",
+    "lat": 40.05,
+    "lon": -74.95,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1151",
+    "uav_path": "train/street/1151/1.jpg",
+    "sat_path": "train/satellite/1151/1151.jpg",
+    "lat": 40.051,
+    "lon": -74.949,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1152",
+    "uav_path": "train/street/1152/1.jpg",
+    "sat_path": "train/satellite/1152/1152.jpg",
+    "lat": 40.052,
+    "lon": -74.948,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1153",
+    "uav_path": "train/street/1153/1.jpg",
+    "sat_path": "train/satellite/1153/1153.jpg",
+    "lat": 40.053,
+    "lon": -74.947,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1154",
+    "uav_path": "train/street/1154/1.jpg",
+    "sat_path": "train/satellite/1154/1154.jpg",
+    "lat": 40.054,
+    "lon": -74.946,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1155",
+    "uav_path": "train/street/1155/1.jpg",
+    "sat_path": "train/satellite/1155/1155.jpg",
+    "lat": 40.055,
+    "lon": -74.945,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1156",
+    "uav_path": "train/street/1156/1.jpg",
+    "sat_path": "train/satellite/1156/1156.jpg",
+    "lat": 40.056,
+    "lon": -74.944,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1157",
+    "uav_path": "train/street/1157/1.jpg",
+    "sat_path": "train/satellite/1157/1157.jpg",
+    "lat": 40.057,
+    "lon": -74.943,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1158",
+    "uav_path": "train/street/1158/1.jpg",
+    "sat_path": "train/satellite/1158/1158.jpg",
+    "lat": 40.058,
+    "lon": -74.942,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1159",
+    "uav_path": "train/street/1159/1.jpg",
+    "sat_path": "train/satellite/1159/1159.jpg",
+    "lat": 40.059,
+    "lon": -74.941,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1160",
+    "uav_path": "train/street/1160/1.jpg",
+    "sat_path": "train/satellite/1160/1160.jpg",
+    "lat": 40.06,
+    "lon": -74.94,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1162",
+    "uav_path": "train/street/1162/1.jpg",
+    "sat_path": "train/satellite/1162/1162.jpg",
+    "lat": 40.062,
+    "lon": -74.938,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1163",
+    "uav_path": "train/street/1163/1.jpg",
+    "sat_path": "train/satellite/1163/1163.jpg",
+    "lat": 40.063,
+    "lon": -74.937,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1164",
+    "uav_path": "train/street/1164/1.jpg",
+    "sat_path": "train/satellite/1164/1164.jpg",
+    "lat": 40.064,
+    "lon": -74.936,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1165",
+    "uav_path": "train/street/1165/1.jpg",
+    "sat_path": "train/satellite/1165/1165.jpg",
+    "lat": 40.065,
+    "lon": -74.935,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1166",
+    "uav_path": "train/street/1166/1.jpg",
+    "sat_path": "train/satellite/1166/1166.jpg",
+    "lat": 40.066,
+    "lon": -74.934,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1167",
+    "uav_path": "train/street/1167/1.jpg",
+    "sat_path": "train/satellite/1167/1167.jpg",
+    "lat": 40.067,
+    "lon": -74.933,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1168",
+    "uav_path": "train/street/1168/1.jpg",
+    "sat_path": "train/satellite/1168/1168.jpg",
+    "lat": 40.068,
+    "lon": -74.932,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1169",
+    "uav_path": "train/street/1169/1.jpg",
+    "sat_path": "train/satellite/1169/1169.jpg",
+    "lat": 40.069,
+    "lon": -74.931,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1170",
+    "uav_path": "train/street/1170/1.jpg",
+    "sat_path": "train/satellite/1170/1170.jpg",
+    "lat": 40.07,
+    "lon": -74.93,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1171",
+    "uav_path": "train/street/1171/1.jpg",
+    "sat_path": "train/satellite/1171/1171.jpg",
+    "lat": 40.071,
+    "lon": -74.929,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1172",
+    "uav_path": "train/street/1172/1.jpg",
+    "sat_path": "train/satellite/1172/1172.jpg",
+    "lat": 40.072,
+    "lon": -74.928,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1173",
+    "uav_path": "train/street/1173/1.jpg",
+    "sat_path": "train/satellite/1173/1173.jpg",
+    "lat": 40.073,
+    "lon": -74.927,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1174",
+    "uav_path": "train/street/1174/1.jpg",
+    "sat_path": "train/satellite/1174/1174.jpg",
+    "lat": 40.074,
+    "lon": -74.926,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1175",
+    "uav_path": "train/street/1175/1.jpg",
+    "sat_path": "train/satellite/1175/1175.jpg",
+    "lat": 40.075,
+    "lon": -74.925,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1176",
+    "uav_path": "train/street/1176/1.jpg",
+    "sat_path": "train/satellite/1176/1176.jpg",
+    "lat": 40.076,
+    "lon": -74.924,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1177",
+    "uav_path": "train/street/1177/1.jpg",
+    "sat_path": "train/satellite/1177/1177.jpg",
+    "lat": 40.077,
+    "lon": -74.923,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1178",
+    "uav_path": "train/street/1178/1.jpg",
+    "sat_path": "train/satellite/1178/1178.jpg",
+    "lat": 40.078,
+    "lon": -74.922,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1179",
+    "uav_path": "train/street/1179/1.jpg",
+    "sat_path": "train/satellite/1179/1179.jpg",
+    "lat": 40.079,
+    "lon": -74.921,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1180",
+    "uav_path": "train/street/1180/1.jpg",
+    "sat_path": "train/satellite/1180/1180.jpg",
+    "lat": 40.08,
+    "lon": -74.92,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1181",
+    "uav_path": "train/street/1181/1.jpg",
+    "sat_path": "train/satellite/1181/1181.jpg",
+    "lat": 40.081,
+    "lon": -74.919,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1182",
+    "uav_path": "train/street/1182/1.jpg",
+    "sat_path": "train/satellite/1182/1182.jpg",
+    "lat": 40.082,
+    "lon": -74.918,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1183",
+    "uav_path": "train/street/1183/1.jpg",
+    "sat_path": "train/satellite/1183/1183.jpg",
+    "lat": 40.083,
+    "lon": -74.917,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1184",
+    "uav_path": "train/street/1184/1.jpg",
+    "sat_path": "train/satellite/1184/1184.jpg",
+    "lat": 40.084,
+    "lon": -74.916,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1185",
+    "uav_path": "train/street/1185/1.jpg",
+    "sat_path": "train/satellite/1185/1185.jpg",
+    "lat": 40.085,
+    "lon": -74.915,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1186",
+    "uav_path": "train/street/1186/1.jpg",
+    "sat_path": "train/satellite/1186/1186.jpg",
+    "lat": 40.086,
+    "lon": -74.914,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1187",
+    "uav_path": "train/street/1187/1.jpg",
+    "sat_path": "train/satellite/1187/1187.jpg",
+    "lat": 40.087,
+    "lon": -74.913,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1188",
+    "uav_path": "train/street/1188/1.jpg",
+    "sat_path": "train/satellite/1188/1188.jpg",
+    "lat": 40.088,
+    "lon": -74.912,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1189",
+    "uav_path": "train/street/1189/1.jpg",
+    "sat_path": "train/satellite/1189/1189.jpg",
+    "lat": 40.089,
+    "lon": -74.911,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1190",
+    "uav_path": "train/street/1190/1.jpg",
+    "sat_path": "train/satellite/1190/1190.jpg",
+    "lat": 40.09,
+    "lon": -74.91,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1191",
+    "uav_path": "train/street/1191/1.jpg",
+    "sat_path": "train/satellite/1191/1191.jpg",
+    "lat": 40.091,
+    "lon": -74.909,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1192",
+    "uav_path": "train/street/1192/1.jpg",
+    "sat_path": "train/satellite/1192/1192.jpg",
+    "lat": 40.092,
+    "lon": -74.908,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1193",
+    "uav_path": "train/street/1193/1.jpg",
+    "sat_path": "train/satellite/1193/1193.jpg",
+    "lat": 40.093,
+    "lon": -74.907,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1194",
+    "uav_path": "train/street/1194/1.jpg",
+    "sat_path": "train/satellite/1194/1194.jpg",
+    "lat": 40.094,
+    "lon": -74.906,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1195",
+    "uav_path": "train/street/1195/1.jpg",
+    "sat_path": "train/satellite/1195/1195.jpg",
+    "lat": 40.095,
+    "lon": -74.905,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1196",
+    "uav_path": "train/street/1196/1.jpg",
+    "sat_path": "train/satellite/1196/1196.jpg",
+    "lat": 40.096,
+    "lon": -74.904,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1197",
+    "uav_path": "train/street/1197/1.jpg",
+    "sat_path": "train/satellite/1197/1197.jpg",
+    "lat": 40.097,
+    "lon": -74.903,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1198",
+    "uav_path": "train/street/1198/1.jpg",
+    "sat_path": "train/satellite/1198/1198.jpg",
+    "lat": 40.098,
+    "lon": -74.902,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1199",
+    "uav_path": "train/street/1199/1.jpg",
+    "sat_path": "train/satellite/1199/1199.jpg",
+    "lat": 40.099,
+    "lon": -74.901,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1200",
+    "uav_path": "train/street/1200/1.jpg",
+    "sat_path": "train/satellite/1200/1200.jpg",
+    "lat": 40.0,
+    "lon": -75.0,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1201",
+    "uav_path": "train/street/1201/1.jpg",
+    "sat_path": "train/satellite/1201/1201.jpg",
+    "lat": 40.001,
+    "lon": -74.999,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1205",
+    "uav_path": "train/street/1205/1.jpg",
+    "sat_path": "train/satellite/1205/1205.jpg",
+    "lat": 40.005,
+    "lon": -74.995,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1206",
+    "uav_path": "train/street/1206/1.jpg",
+    "sat_path": "train/satellite/1206/1206.jpg",
+    "lat": 40.006,
+    "lon": -74.994,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1207",
+    "uav_path": "train/street/1207/1.jpg",
+    "sat_path": "train/satellite/1207/1207.jpg",
+    "lat": 40.007,
+    "lon": -74.993,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1210",
+    "uav_path": "train/street/1210/1.jpg",
+    "sat_path": "train/satellite/1210/1210.jpg",
+    "lat": 40.01,
+    "lon": -74.99,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1211",
+    "uav_path": "train/street/1211/1.jpg",
+    "sat_path": "train/satellite/1211/1211.jpg",
+    "lat": 40.011,
+    "lon": -74.989,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1212",
+    "uav_path": "train/street/1212/1.jpg",
+    "sat_path": "train/satellite/1212/1212.jpg",
+    "lat": 40.012,
+    "lon": -74.988,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1213",
+    "uav_path": "train/street/1213/1.jpg",
+    "sat_path": "train/satellite/1213/1213.jpg",
+    "lat": 40.013,
+    "lon": -74.987,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1214",
+    "uav_path": "train/street/1214/1.jpg",
+    "sat_path": "train/satellite/1214/1214.jpg",
+    "lat": 40.014,
+    "lon": -74.986,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1215",
+    "uav_path": "train/street/1215/1.jpg",
+    "sat_path": "train/satellite/1215/1215.jpg",
+    "lat": 40.015,
+    "lon": -74.985,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1216",
+    "uav_path": "train/street/1216/1.jpg",
+    "sat_path": "train/satellite/1216/1216.jpg",
+    "lat": 40.016,
+    "lon": -74.984,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1217",
+    "uav_path": "train/street/1217/1.jpg",
+    "sat_path": "train/satellite/1217/1217.jpg",
+    "lat": 40.017,
+    "lon": -74.983,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1219",
+    "uav_path": "train/street/1219/1.jpg",
+    "sat_path": "train/satellite/1219/1219.jpg",
+    "lat": 40.019,
+    "lon": -74.981,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1220",
+    "uav_path": "train/street/1220/1.jpg",
+    "sat_path": "train/satellite/1220/1220.jpg",
+    "lat": 40.02,
+    "lon": -74.98,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1221",
+    "uav_path": "train/street/1221/1.jpg",
+    "sat_path": "train/satellite/1221/1221.jpg",
+    "lat": 40.021,
+    "lon": -74.979,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1222",
+    "uav_path": "train/street/1222/1.jpg",
+    "sat_path": "train/satellite/1222/1222.jpg",
+    "lat": 40.022,
+    "lon": -74.978,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1223",
+    "uav_path": "train/street/1223/1.jpg",
+    "sat_path": "train/satellite/1223/1223.jpg",
+    "lat": 40.023,
+    "lon": -74.977,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1226",
+    "uav_path": "train/street/1226/1.jpg",
+    "sat_path": "train/satellite/1226/1226.jpg",
+    "lat": 40.026,
+    "lon": -74.974,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1227",
+    "uav_path": "train/street/1227/1.jpg",
+    "sat_path": "train/satellite/1227/1227.jpg",
+    "lat": 40.027,
+    "lon": -74.973,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1229",
+    "uav_path": "train/street/1229/1.jpg",
+    "sat_path": "train/satellite/1229/1229.jpg",
+    "lat": 40.029,
+    "lon": -74.971,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1230",
+    "uav_path": "train/street/1230/1.jpg",
+    "sat_path": "train/satellite/1230/1230.jpg",
+    "lat": 40.03,
+    "lon": -74.97,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1232",
+    "uav_path": "train/street/1232/1.jpg",
+    "sat_path": "train/satellite/1232/1232.jpg",
+    "lat": 40.032,
+    "lon": -74.968,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1234",
+    "uav_path": "train/street/1234/1.jpg",
+    "sat_path": "train/satellite/1234/1234.jpg",
+    "lat": 40.034,
+    "lon": -74.966,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1235",
+    "uav_path": "train/street/1235/1.jpg",
+    "sat_path": "train/satellite/1235/1235.jpg",
+    "lat": 40.035,
+    "lon": -74.965,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1237",
+    "uav_path": "train/street/1237/1.jpg",
+    "sat_path": "train/satellite/1237/1237.jpg",
+    "lat": 40.037,
+    "lon": -74.963,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1238",
+    "uav_path": "train/street/1238/1.jpg",
+    "sat_path": "train/satellite/1238/1238.jpg",
+    "lat": 40.038,
+    "lon": -74.962,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1239",
+    "uav_path": "train/street/1239/1.jpg",
+    "sat_path": "train/satellite/1239/1239.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1240",
+    "uav_path": "train/street/1240/1.jpg",
+    "sat_path": "train/satellite/1240/1240.jpg",
+    "lat": 40.04,
+    "lon": -74.96,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1241",
+    "uav_path": "train/street/1241/1.jpg",
+    "sat_path": "train/satellite/1241/1241.jpg",
+    "lat": 40.041,
+    "lon": -74.959,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1242",
+    "uav_path": "train/street/1242/1.jpg",
+    "sat_path": "train/satellite/1242/1242.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1243",
+    "uav_path": "train/street/1243/1.jpg",
+    "sat_path": "train/satellite/1243/1243.jpg",
+    "lat": 40.043,
+    "lon": -74.957,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1244",
+    "uav_path": "train/street/1244/1.jpg",
+    "sat_path": "train/satellite/1244/1244.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1245",
+    "uav_path": "train/street/1245/1.jpg",
+    "sat_path": "train/satellite/1245/1245.jpg",
+    "lat": 40.045,
+    "lon": -74.955,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1248",
+    "uav_path": "train/street/1248/1.jpg",
+    "sat_path": "train/satellite/1248/1248.jpg",
+    "lat": 40.048,
+    "lon": -74.952,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1249",
+    "uav_path": "train/street/1249/1.jpg",
+    "sat_path": "train/satellite/1249/1249.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1250",
+    "uav_path": "train/street/1250/1.jpg",
+    "sat_path": "train/satellite/1250/1250.jpg",
+    "lat": 40.05,
+    "lon": -74.95,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1251",
+    "uav_path": "train/street/1251/1.jpg",
+    "sat_path": "train/satellite/1251/1251.jpg",
+    "lat": 40.051,
+    "lon": -74.949,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1252",
+    "uav_path": "train/street/1252/1.jpg",
+    "sat_path": "train/satellite/1252/1252.jpg",
+    "lat": 40.052,
+    "lon": -74.948,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1253",
+    "uav_path": "train/street/1253/1.jpg",
+    "sat_path": "train/satellite/1253/1253.jpg",
+    "lat": 40.053,
+    "lon": -74.947,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1254",
+    "uav_path": "train/street/1254/1.jpg",
+    "sat_path": "train/satellite/1254/1254.jpg",
+    "lat": 40.054,
+    "lon": -74.946,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1255",
+    "uav_path": "train/street/1255/1.jpg",
+    "sat_path": "train/satellite/1255/1255.jpg",
+    "lat": 40.055,
+    "lon": -74.945,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1256",
+    "uav_path": "train/street/1256/1.jpg",
+    "sat_path": "train/satellite/1256/1256.jpg",
+    "lat": 40.056,
+    "lon": -74.944,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1257",
+    "uav_path": "train/street/1257/1.jpg",
+    "sat_path": "train/satellite/1257/1257.jpg",
+    "lat": 40.057,
+    "lon": -74.943,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1258",
+    "uav_path": "train/street/1258/1.jpg",
+    "sat_path": "train/satellite/1258/1258.jpg",
+    "lat": 40.058,
+    "lon": -74.942,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1259",
+    "uav_path": "train/street/1259/1.jpg",
+    "sat_path": "train/satellite/1259/1259.jpg",
+    "lat": 40.059,
+    "lon": -74.941,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1260",
+    "uav_path": "train/street/1260/1.jpg",
+    "sat_path": "train/satellite/1260/1260.jpg",
+    "lat": 40.06,
+    "lon": -74.94,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1261",
+    "uav_path": "train/street/1261/1.jpg",
+    "sat_path": "train/satellite/1261/1261.jpg",
+    "lat": 40.061,
+    "lon": -74.939,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1262",
+    "uav_path": "train/street/1262/1.jpg",
+    "sat_path": "train/satellite/1262/1262.jpg",
+    "lat": 40.062,
+    "lon": -74.938,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1263",
+    "uav_path": "train/street/1263/1.jpg",
+    "sat_path": "train/satellite/1263/1263.jpg",
+    "lat": 40.063,
+    "lon": -74.937,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1264",
+    "uav_path": "train/street/1264/1.jpg",
+    "sat_path": "train/satellite/1264/1264.jpg",
+    "lat": 40.064,
+    "lon": -74.936,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1265",
+    "uav_path": "train/street/1265/1.jpg",
+    "sat_path": "train/satellite/1265/1265.jpg",
+    "lat": 40.065,
+    "lon": -74.935,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1266",
+    "uav_path": "train/street/1266/1.jpg",
+    "sat_path": "train/satellite/1266/1266.jpg",
+    "lat": 40.066,
+    "lon": -74.934,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1267",
+    "uav_path": "train/street/1267/1.jpg",
+    "sat_path": "train/satellite/1267/1267.jpg",
+    "lat": 40.067,
+    "lon": -74.933,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1268",
+    "uav_path": "train/street/1268/1.jpg",
+    "sat_path": "train/satellite/1268/1268.jpg",
+    "lat": 40.068,
+    "lon": -74.932,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1269",
+    "uav_path": "train/street/1269/1.jpg",
+    "sat_path": "train/satellite/1269/1269.jpg",
+    "lat": 40.069,
+    "lon": -74.931,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1271",
+    "uav_path": "train/street/1271/1.jpg",
+    "sat_path": "train/satellite/1271/1271.jpg",
+    "lat": 40.071,
+    "lon": -74.929,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1272",
+    "uav_path": "train/street/1272/1.jpg",
+    "sat_path": "train/satellite/1272/1272.jpg",
+    "lat": 40.072,
+    "lon": -74.928,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1274",
+    "uav_path": "train/street/1274/1.jpg",
+    "sat_path": "train/satellite/1274/1274.jpg",
+    "lat": 40.074,
+    "lon": -74.926,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1275",
+    "uav_path": "train/street/1275/1.jpg",
+    "sat_path": "train/satellite/1275/1275.jpg",
+    "lat": 40.075,
+    "lon": -74.925,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1276",
+    "uav_path": "train/street/1276/1.jpg",
+    "sat_path": "train/satellite/1276/1276.jpg",
+    "lat": 40.076,
+    "lon": -74.924,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1278",
+    "uav_path": "train/street/1278/1.jpg",
+    "sat_path": "train/satellite/1278/1278.jpg",
+    "lat": 40.078,
+    "lon": -74.922,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1279",
+    "uav_path": "train/street/1279/1.jpg",
+    "sat_path": "train/satellite/1279/1279.jpg",
+    "lat": 40.079,
+    "lon": -74.921,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1280",
+    "uav_path": "train/street/1280/1.jpg",
+    "sat_path": "train/satellite/1280/1280.jpg",
+    "lat": 40.08,
+    "lon": -74.92,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1281",
+    "uav_path": "train/street/1281/1.jpg",
+    "sat_path": "train/satellite/1281/1281.jpg",
+    "lat": 40.081,
+    "lon": -74.919,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1282",
+    "uav_path": "train/street/1282/1.jpg",
+    "sat_path": "train/satellite/1282/1282.jpg",
+    "lat": 40.082,
+    "lon": -74.918,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1283",
+    "uav_path": "train/street/1283/1.jpg",
+    "sat_path": "train/satellite/1283/1283.jpg",
+    "lat": 40.083,
+    "lon": -74.917,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1284",
+    "uav_path": "train/street/1284/1.jpg",
+    "sat_path": "train/satellite/1284/1284.jpg",
+    "lat": 40.084,
+    "lon": -74.916,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1285",
+    "uav_path": "train/street/1285/1.jpg",
+    "sat_path": "train/satellite/1285/1285.jpg",
+    "lat": 40.085,
+    "lon": -74.915,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1286",
+    "uav_path": "train/street/1286/1.jpg",
+    "sat_path": "train/satellite/1286/1286.jpg",
+    "lat": 40.086,
+    "lon": -74.914,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1287",
+    "uav_path": "train/street/1287/1.jpg",
+    "sat_path": "train/satellite/1287/1287.jpg",
+    "lat": 40.087,
+    "lon": -74.913,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1288",
+    "uav_path": "train/street/1288/1.jpg",
+    "sat_path": "train/satellite/1288/1288.jpg",
+    "lat": 40.088,
+    "lon": -74.912,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1289",
+    "uav_path": "train/street/1289/1.jpg",
+    "sat_path": "train/satellite/1289/1289.jpg",
+    "lat": 40.089,
+    "lon": -74.911,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1290",
+    "uav_path": "train/street/1290/1.jpg",
+    "sat_path": "train/satellite/1290/1290.jpg",
+    "lat": 40.09,
+    "lon": -74.91,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1291",
+    "uav_path": "train/street/1291/1.jpg",
+    "sat_path": "train/satellite/1291/1291.jpg",
+    "lat": 40.091,
+    "lon": -74.909,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1292",
+    "uav_path": "train/street/1292/1.jpg",
+    "sat_path": "train/satellite/1292/1292.jpg",
+    "lat": 40.092,
+    "lon": -74.908,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1293",
+    "uav_path": "train/street/1293/1.jpg",
+    "sat_path": "train/satellite/1293/1293.jpg",
+    "lat": 40.093,
+    "lon": -74.907,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1294",
+    "uav_path": "train/street/1294/1.jpg",
+    "sat_path": "train/satellite/1294/1294.jpg",
+    "lat": 40.094,
+    "lon": -74.906,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1295",
+    "uav_path": "train/street/1295/1.jpg",
+    "sat_path": "train/satellite/1295/1295.jpg",
+    "lat": 40.095,
+    "lon": -74.905,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1296",
+    "uav_path": "train/street/1296/1.jpg",
+    "sat_path": "train/satellite/1296/1296.jpg",
+    "lat": 40.096,
+    "lon": -74.904,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1297",
+    "uav_path": "train/street/1297/1.jpg",
+    "sat_path": "train/satellite/1297/1297.jpg",
+    "lat": 40.097,
+    "lon": -74.903,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1298",
+    "uav_path": "train/street/1298/1.jpg",
+    "sat_path": "train/satellite/1298/1298.jpg",
+    "lat": 40.098,
+    "lon": -74.902,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1299",
+    "uav_path": "train/street/1299/1.jpg",
+    "sat_path": "train/satellite/1299/1299.jpg",
+    "lat": 40.099,
+    "lon": -74.901,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1300",
+    "uav_path": "train/street/1300/1.jpg",
+    "sat_path": "train/satellite/1300/1300.jpg",
+    "lat": 40.0,
+    "lon": -75.0,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1301",
+    "uav_path": "train/street/1301/1.jpg",
+    "sat_path": "train/satellite/1301/1301.jpg",
+    "lat": 40.001,
+    "lon": -74.999,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1302",
+    "uav_path": "train/street/1302/1.jpg",
+    "sat_path": "train/satellite/1302/1302.jpg",
+    "lat": 40.002,
+    "lon": -74.998,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1303",
+    "uav_path": "train/street/1303/1.jpg",
+    "sat_path": "train/satellite/1303/1303.jpg",
+    "lat": 40.003,
+    "lon": -74.997,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1304",
+    "uav_path": "train/street/1304/1.jpg",
+    "sat_path": "train/satellite/1304/1304.jpg",
+    "lat": 40.004,
+    "lon": -74.996,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1306",
+    "uav_path": "train/street/1306/1.jpg",
+    "sat_path": "train/satellite/1306/1306.jpg",
+    "lat": 40.006,
+    "lon": -74.994,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1307",
+    "uav_path": "train/street/1307/1.jpg",
+    "sat_path": "train/satellite/1307/1307.jpg",
+    "lat": 40.007,
+    "lon": -74.993,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1309",
+    "uav_path": "train/street/1309/1.jpg",
+    "sat_path": "train/satellite/1309/1309.jpg",
+    "lat": 40.009,
+    "lon": -74.991,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1310",
+    "uav_path": "train/street/1310/1.jpg",
+    "sat_path": "train/satellite/1310/1310.jpg",
+    "lat": 40.01,
+    "lon": -74.99,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1311",
+    "uav_path": "train/street/1311/1.jpg",
+    "sat_path": "train/satellite/1311/1311.jpg",
+    "lat": 40.011,
+    "lon": -74.989,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1312",
+    "uav_path": "train/street/1312/1.jpg",
+    "sat_path": "train/satellite/1312/1312.jpg",
+    "lat": 40.012,
+    "lon": -74.988,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1313",
+    "uav_path": "train/street/1313/1.jpg",
+    "sat_path": "train/satellite/1313/1313.jpg",
+    "lat": 40.013,
+    "lon": -74.987,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1314",
+    "uav_path": "train/street/1314/1.jpg",
+    "sat_path": "train/satellite/1314/1314.jpg",
+    "lat": 40.014,
+    "lon": -74.986,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1315",
+    "uav_path": "train/street/1315/1.jpg",
+    "sat_path": "train/satellite/1315/1315.jpg",
+    "lat": 40.015,
+    "lon": -74.985,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1316",
+    "uav_path": "train/street/1316/1.jpg",
+    "sat_path": "train/satellite/1316/1316.jpg",
+    "lat": 40.016,
+    "lon": -74.984,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1318",
+    "uav_path": "train/street/1318/1.jpg",
+    "sat_path": "train/satellite/1318/1318.jpg",
+    "lat": 40.018,
+    "lon": -74.982,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1320",
+    "uav_path": "train/street/1320/1.jpg",
+    "sat_path": "train/satellite/1320/1320.jpg",
+    "lat": 40.02,
+    "lon": -74.98,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1321",
+    "uav_path": "train/street/1321/1.jpg",
+    "sat_path": "train/satellite/1321/1321.jpg",
+    "lat": 40.021,
+    "lon": -74.979,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1322",
+    "uav_path": "train/street/1322/1.jpg",
+    "sat_path": "train/satellite/1322/1322.jpg",
+    "lat": 40.022,
+    "lon": -74.978,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1323",
+    "uav_path": "train/street/1323/1.jpg",
+    "sat_path": "train/satellite/1323/1323.jpg",
+    "lat": 40.023,
+    "lon": -74.977,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1324",
+    "uav_path": "train/street/1324/1.jpg",
+    "sat_path": "train/satellite/1324/1324.jpg",
+    "lat": 40.024,
+    "lon": -74.976,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1326",
+    "uav_path": "train/street/1326/1.jpg",
+    "sat_path": "train/satellite/1326/1326.jpg",
+    "lat": 40.026,
+    "lon": -74.974,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1327",
+    "uav_path": "train/street/1327/1.jpg",
+    "sat_path": "train/satellite/1327/1327.jpg",
+    "lat": 40.027,
+    "lon": -74.973,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1328",
+    "uav_path": "train/street/1328/1.jpg",
+    "sat_path": "train/satellite/1328/1328.jpg",
+    "lat": 40.028,
+    "lon": -74.972,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1329",
+    "uav_path": "train/street/1329/1.jpg",
+    "sat_path": "train/satellite/1329/1329.jpg",
+    "lat": 40.029,
+    "lon": -74.971,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1331",
+    "uav_path": "train/street/1331/1.jpg",
+    "sat_path": "train/satellite/1331/1331.jpg",
+    "lat": 40.031,
+    "lon": -74.969,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1333",
+    "uav_path": "train/street/1333/1.jpg",
+    "sat_path": "train/satellite/1333/1333.jpg",
+    "lat": 40.033,
+    "lon": -74.967,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1334",
+    "uav_path": "train/street/1334/1.jpg",
+    "sat_path": "train/satellite/1334/1334.jpg",
+    "lat": 40.034,
+    "lon": -74.966,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1337",
+    "uav_path": "train/street/1337/1.jpg",
+    "sat_path": "train/satellite/1337/1337.jpg",
+    "lat": 40.037,
+    "lon": -74.963,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1338",
+    "uav_path": "train/street/1338/1.jpg",
+    "sat_path": "train/satellite/1338/1338.jpg",
+    "lat": 40.038,
+    "lon": -74.962,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1339",
+    "uav_path": "train/street/1339/1.jpg",
+    "sat_path": "train/satellite/1339/1339.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1340",
+    "uav_path": "train/street/1340/1.jpg",
+    "sat_path": "train/satellite/1340/1340.jpg",
+    "lat": 40.04,
+    "lon": -74.96,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1342",
+    "uav_path": "train/street/1342/1.jpg",
+    "sat_path": "train/satellite/1342/1342.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1344",
+    "uav_path": "train/street/1344/1.jpg",
+    "sat_path": "train/satellite/1344/1344.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1345",
+    "uav_path": "train/street/1345/1.jpg",
+    "sat_path": "train/satellite/1345/1345.jpg",
+    "lat": 40.045,
+    "lon": -74.955,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1346",
+    "uav_path": "train/street/1346/1.jpg",
+    "sat_path": "train/satellite/1346/1346.jpg",
+    "lat": 40.046,
+    "lon": -74.954,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1347",
+    "uav_path": "train/street/1347/1.jpg",
+    "sat_path": "train/satellite/1347/1347.jpg",
+    "lat": 40.047,
+    "lon": -74.953,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1348",
+    "uav_path": "train/street/1348/1.jpg",
+    "sat_path": "train/satellite/1348/1348.jpg",
+    "lat": 40.048,
+    "lon": -74.952,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1349",
+    "uav_path": "train/street/1349/1.jpg",
+    "sat_path": "train/satellite/1349/1349.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1350",
+    "uav_path": "train/street/1350/1.jpg",
+    "sat_path": "train/satellite/1350/1350.jpg",
+    "lat": 40.05,
+    "lon": -74.95,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1351",
+    "uav_path": "train/street/1351/1.jpg",
+    "sat_path": "train/satellite/1351/1351.jpg",
+    "lat": 40.051,
+    "lon": -74.949,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1352",
+    "uav_path": "train/street/1352/1.jpg",
+    "sat_path": "train/satellite/1352/1352.jpg",
+    "lat": 40.052,
+    "lon": -74.948,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1353",
+    "uav_path": "train/street/1353/1.jpg",
+    "sat_path": "train/satellite/1353/1353.jpg",
+    "lat": 40.053,
+    "lon": -74.947,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1354",
+    "uav_path": "train/street/1354/1.jpg",
+    "sat_path": "train/satellite/1354/1354.jpg",
+    "lat": 40.054,
+    "lon": -74.946,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1355",
+    "uav_path": "train/street/1355/1.jpg",
+    "sat_path": "train/satellite/1355/1355.jpg",
+    "lat": 40.055,
+    "lon": -74.945,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1356",
+    "uav_path": "train/street/1356/1.jpg",
+    "sat_path": "train/satellite/1356/1356.jpg",
+    "lat": 40.056,
+    "lon": -74.944,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1357",
+    "uav_path": "train/street/1357/1.jpg",
+    "sat_path": "train/satellite/1357/1357.jpg",
+    "lat": 40.057,
+    "lon": -74.943,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1358",
+    "uav_path": "train/street/1358/1.jpg",
+    "sat_path": "train/satellite/1358/1358.jpg",
+    "lat": 40.058,
+    "lon": -74.942,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1359",
+    "uav_path": "train/street/1359/1.jpg",
+    "sat_path": "train/satellite/1359/1359.jpg",
+    "lat": 40.059,
+    "lon": -74.941,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1360",
+    "uav_path": "train/street/1360/1.jpg",
+    "sat_path": "train/satellite/1360/1360.jpg",
+    "lat": 40.06,
+    "lon": -74.94,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1361",
+    "uav_path": "train/street/1361/1.jpg",
+    "sat_path": "train/satellite/1361/1361.jpg",
+    "lat": 40.061,
+    "lon": -74.939,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1362",
+    "uav_path": "train/street/1362/1.jpg",
+    "sat_path": "train/satellite/1362/1362.jpg",
+    "lat": 40.062,
+    "lon": -74.938,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1363",
+    "uav_path": "train/street/1363/1.jpg",
+    "sat_path": "train/satellite/1363/1363.jpg",
+    "lat": 40.063,
+    "lon": -74.937,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1364",
+    "uav_path": "train/street/1364/1.jpg",
+    "sat_path": "train/satellite/1364/1364.jpg",
+    "lat": 40.064,
+    "lon": -74.936,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1365",
+    "uav_path": "train/street/1365/1.jpg",
+    "sat_path": "train/satellite/1365/1365.jpg",
+    "lat": 40.065,
+    "lon": -74.935,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1366",
+    "uav_path": "train/street/1366/1.jpg",
+    "sat_path": "train/satellite/1366/1366.jpg",
+    "lat": 40.066,
+    "lon": -74.934,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1368",
+    "uav_path": "train/street/1368/1.jpg",
+    "sat_path": "train/satellite/1368/1368.jpg",
+    "lat": 40.068,
+    "lon": -74.932,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1369",
+    "uav_path": "train/street/1369/1.jpg",
+    "sat_path": "train/satellite/1369/1369.jpg",
+    "lat": 40.069,
+    "lon": -74.931,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1370",
+    "uav_path": "train/street/1370/1.jpg",
+    "sat_path": "train/satellite/1370/1370.jpg",
+    "lat": 40.07,
+    "lon": -74.93,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1371",
+    "uav_path": "train/street/1371/1.jpg",
+    "sat_path": "train/satellite/1371/1371.jpg",
+    "lat": 40.071,
+    "lon": -74.929,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1372",
+    "uav_path": "train/street/1372/1.jpg",
+    "sat_path": "train/satellite/1372/1372.jpg",
+    "lat": 40.072,
+    "lon": -74.928,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1373",
+    "uav_path": "train/street/1373/1.jpg",
+    "sat_path": "train/satellite/1373/1373.jpg",
+    "lat": 40.073,
+    "lon": -74.927,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1374",
+    "uav_path": "train/street/1374/1.jpg",
+    "sat_path": "train/satellite/1374/1374.jpg",
+    "lat": 40.074,
+    "lon": -74.926,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1375",
+    "uav_path": "train/street/1375/1.jpg",
+    "sat_path": "train/satellite/1375/1375.jpg",
+    "lat": 40.075,
+    "lon": -74.925,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1376",
+    "uav_path": "train/street/1376/1.jpg",
+    "sat_path": "train/satellite/1376/1376.jpg",
+    "lat": 40.076,
+    "lon": -74.924,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1377",
+    "uav_path": "train/street/1377/1.jpg",
+    "sat_path": "train/satellite/1377/1377.jpg",
+    "lat": 40.077,
+    "lon": -74.923,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1378",
+    "uav_path": "train/street/1378/1.jpg",
+    "sat_path": "train/satellite/1378/1378.jpg",
+    "lat": 40.078,
+    "lon": -74.922,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1379",
+    "uav_path": "train/street/1379/1.jpg",
+    "sat_path": "train/satellite/1379/1379.jpg",
+    "lat": 40.079,
+    "lon": -74.921,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1380",
+    "uav_path": "train/street/1380/1.jpg",
+    "sat_path": "train/satellite/1380/1380.jpg",
+    "lat": 40.08,
+    "lon": -74.92,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1381",
+    "uav_path": "train/street/1381/1.jpg",
+    "sat_path": "train/satellite/1381/1381.jpg",
+    "lat": 40.081,
+    "lon": -74.919,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1382",
+    "uav_path": "train/street/1382/1.jpg",
+    "sat_path": "train/satellite/1382/1382.jpg",
+    "lat": 40.082,
+    "lon": -74.918,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1383",
+    "uav_path": "train/street/1383/1.jpg",
+    "sat_path": "train/satellite/1383/1383.jpg",
+    "lat": 40.083,
+    "lon": -74.917,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1384",
+    "uav_path": "train/street/1384/1.jpg",
+    "sat_path": "train/satellite/1384/1384.jpg",
+    "lat": 40.084,
+    "lon": -74.916,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1385",
+    "uav_path": "train/street/1385/1.jpg",
+    "sat_path": "train/satellite/1385/1385.jpg",
+    "lat": 40.085,
+    "lon": -74.915,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1386",
+    "uav_path": "train/street/1386/1.jpg",
+    "sat_path": "train/satellite/1386/1386.jpg",
+    "lat": 40.086,
+    "lon": -74.914,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1387",
+    "uav_path": "train/street/1387/1.jpg",
+    "sat_path": "train/satellite/1387/1387.jpg",
+    "lat": 40.087,
+    "lon": -74.913,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1388",
+    "uav_path": "train/street/1388/1.jpg",
+    "sat_path": "train/satellite/1388/1388.jpg",
+    "lat": 40.088,
+    "lon": -74.912,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1389",
+    "uav_path": "train/street/1389/1.jpg",
+    "sat_path": "train/satellite/1389/1389.jpg",
+    "lat": 40.089,
+    "lon": -74.911,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1390",
+    "uav_path": "train/street/1390/1.jpg",
+    "sat_path": "train/satellite/1390/1390.jpg",
+    "lat": 40.09,
+    "lon": -74.91,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1391",
+    "uav_path": "train/street/1391/1.jpg",
+    "sat_path": "train/satellite/1391/1391.jpg",
+    "lat": 40.091,
+    "lon": -74.909,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1392",
+    "uav_path": "train/street/1392/1.jpg",
+    "sat_path": "train/satellite/1392/1392.jpg",
+    "lat": 40.092,
+    "lon": -74.908,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1393",
+    "uav_path": "train/street/1393/1.jpg",
+    "sat_path": "train/satellite/1393/1393.jpg",
+    "lat": 40.093,
+    "lon": -74.907,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1394",
+    "uav_path": "train/street/1394/1.jpg",
+    "sat_path": "train/satellite/1394/1394.jpg",
+    "lat": 40.094,
+    "lon": -74.906,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1395",
+    "uav_path": "train/street/1395/1.jpg",
+    "sat_path": "train/satellite/1395/1395.jpg",
+    "lat": 40.095,
+    "lon": -74.905,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1396",
+    "uav_path": "train/street/1396/1.jpg",
+    "sat_path": "train/satellite/1396/1396.jpg",
+    "lat": 40.096,
+    "lon": -74.904,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1397",
+    "uav_path": "train/street/1397/1.jpg",
+    "sat_path": "train/satellite/1397/1397.jpg",
+    "lat": 40.097,
+    "lon": -74.903,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1398",
+    "uav_path": "train/street/1398/1.jpg",
+    "sat_path": "train/satellite/1398/1398.jpg",
+    "lat": 40.098,
+    "lon": -74.902,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1399",
+    "uav_path": "train/street/1399/1.jpg",
+    "sat_path": "train/satellite/1399/1399.jpg",
+    "lat": 40.099,
+    "lon": -74.901,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1400",
+    "uav_path": "train/street/1400/1.jpg",
+    "sat_path": "train/satellite/1400/1400.jpg",
+    "lat": 40.0,
+    "lon": -75.0,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1401",
+    "uav_path": "train/street/1401/1.jpg",
+    "sat_path": "train/satellite/1401/1401.jpg",
+    "lat": 40.001,
+    "lon": -74.999,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1402",
+    "uav_path": "train/street/1402/1.jpg",
+    "sat_path": "train/satellite/1402/1402.jpg",
+    "lat": 40.002,
+    "lon": -74.998,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1404",
+    "uav_path": "train/street/1404/1.jpg",
+    "sat_path": "train/satellite/1404/1404.jpg",
+    "lat": 40.004,
+    "lon": -74.996,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1405",
+    "uav_path": "train/street/1405/1.jpg",
+    "sat_path": "train/satellite/1405/1405.jpg",
+    "lat": 40.005,
+    "lon": -74.995,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1406",
+    "uav_path": "train/street/1406/1.jpg",
+    "sat_path": "train/satellite/1406/1406.jpg",
+    "lat": 40.006,
+    "lon": -74.994,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1407",
+    "uav_path": "train/street/1407/1.jpg",
+    "sat_path": "train/satellite/1407/1407.jpg",
+    "lat": 40.007,
+    "lon": -74.993,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1408",
+    "uav_path": "train/street/1408/1.jpg",
+    "sat_path": "train/satellite/1408/1408.jpg",
+    "lat": 40.008,
+    "lon": -74.992,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1409",
+    "uav_path": "train/street/1409/1.jpg",
+    "sat_path": "train/satellite/1409/1409.jpg",
+    "lat": 40.009,
+    "lon": -74.991,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1410",
+    "uav_path": "train/street/1410/1.jpg",
+    "sat_path": "train/satellite/1410/1410.jpg",
+    "lat": 40.01,
+    "lon": -74.99,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1411",
+    "uav_path": "train/street/1411/1.jpg",
+    "sat_path": "train/satellite/1411/1411.jpg",
+    "lat": 40.011,
+    "lon": -74.989,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1412",
+    "uav_path": "train/street/1412/1.jpg",
+    "sat_path": "train/satellite/1412/1412.jpg",
+    "lat": 40.012,
+    "lon": -74.988,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1413",
+    "uav_path": "train/street/1413/1.jpg",
+    "sat_path": "train/satellite/1413/1413.jpg",
+    "lat": 40.013,
+    "lon": -74.987,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1414",
+    "uav_path": "train/street/1414/1.jpg",
+    "sat_path": "train/satellite/1414/1414.jpg",
+    "lat": 40.014,
+    "lon": -74.986,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1415",
+    "uav_path": "train/street/1415/1.jpg",
+    "sat_path": "train/satellite/1415/1415.jpg",
+    "lat": 40.015,
+    "lon": -74.985,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1416",
+    "uav_path": "train/street/1416/1.jpg",
+    "sat_path": "train/satellite/1416/1416.jpg",
+    "lat": 40.016,
+    "lon": -74.984,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1418",
+    "uav_path": "train/street/1418/1.jpg",
+    "sat_path": "train/satellite/1418/1418.jpg",
+    "lat": 40.018,
+    "lon": -74.982,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1419",
+    "uav_path": "train/street/1419/1.jpg",
+    "sat_path": "train/satellite/1419/1419.jpg",
+    "lat": 40.019,
+    "lon": -74.981,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1420",
+    "uav_path": "train/street/1420/1.jpg",
+    "sat_path": "train/satellite/1420/1420.jpg",
+    "lat": 40.02,
+    "lon": -74.98,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1421",
+    "uav_path": "train/street/1421/1.jpg",
+    "sat_path": "train/satellite/1421/1421.jpg",
+    "lat": 40.021,
+    "lon": -74.979,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1422",
+    "uav_path": "train/street/1422/1.jpg",
+    "sat_path": "train/satellite/1422/1422.jpg",
+    "lat": 40.022,
+    "lon": -74.978,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1423",
+    "uav_path": "train/street/1423/1.jpg",
+    "sat_path": "train/satellite/1423/1423.jpg",
+    "lat": 40.023,
+    "lon": -74.977,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1424",
+    "uav_path": "train/street/1424/1.jpg",
+    "sat_path": "train/satellite/1424/1424.jpg",
+    "lat": 40.024,
+    "lon": -74.976,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1425",
+    "uav_path": "train/street/1425/1.jpg",
+    "sat_path": "train/satellite/1425/1425.jpg",
+    "lat": 40.025,
+    "lon": -74.975,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1426",
+    "uav_path": "train/street/1426/1.jpg",
+    "sat_path": "train/satellite/1426/1426.jpg",
+    "lat": 40.026,
+    "lon": -74.974,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1427",
+    "uav_path": "train/street/1427/1.jpg",
+    "sat_path": "train/satellite/1427/1427.jpg",
+    "lat": 40.027,
+    "lon": -74.973,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1428",
+    "uav_path": "train/street/1428/1.jpg",
+    "sat_path": "train/satellite/1428/1428.jpg",
+    "lat": 40.028,
+    "lon": -74.972,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1429",
+    "uav_path": "train/street/1429/1.jpg",
+    "sat_path": "train/satellite/1429/1429.jpg",
+    "lat": 40.029,
+    "lon": -74.971,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1430",
+    "uav_path": "train/street/1430/1.jpg",
+    "sat_path": "train/satellite/1430/1430.jpg",
+    "lat": 40.03,
+    "lon": -74.97,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1431",
+    "uav_path": "train/street/1431/1.jpg",
+    "sat_path": "train/satellite/1431/1431.jpg",
+    "lat": 40.031,
+    "lon": -74.969,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1432",
+    "uav_path": "train/street/1432/1.jpg",
+    "sat_path": "train/satellite/1432/1432.jpg",
+    "lat": 40.032,
+    "lon": -74.968,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1433",
+    "uav_path": "train/street/1433/1.jpg",
+    "sat_path": "train/satellite/1433/1433.jpg",
+    "lat": 40.033,
+    "lon": -74.967,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1434",
+    "uav_path": "train/street/1434/1.jpg",
+    "sat_path": "train/satellite/1434/1434.jpg",
+    "lat": 40.034,
+    "lon": -74.966,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1435",
+    "uav_path": "train/street/1435/1.jpg",
+    "sat_path": "train/satellite/1435/1435.jpg",
+    "lat": 40.035,
+    "lon": -74.965,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1436",
+    "uav_path": "train/street/1436/1.jpg",
+    "sat_path": "train/satellite/1436/1436.jpg",
+    "lat": 40.036,
+    "lon": -74.964,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1438",
+    "uav_path": "train/street/1438/1.jpg",
+    "sat_path": "train/satellite/1438/1438.jpg",
+    "lat": 40.038,
+    "lon": -74.962,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1439",
+    "uav_path": "train/street/1439/1.jpg",
+    "sat_path": "train/satellite/1439/1439.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1440",
+    "uav_path": "train/street/1440/1.jpg",
+    "sat_path": "train/satellite/1440/1440.jpg",
+    "lat": 40.04,
+    "lon": -74.96,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1441",
+    "uav_path": "train/street/1441/1.jpg",
+    "sat_path": "train/satellite/1441/1441.jpg",
+    "lat": 40.041,
+    "lon": -74.959,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1442",
+    "uav_path": "train/street/1442/1.jpg",
+    "sat_path": "train/satellite/1442/1442.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1443",
+    "uav_path": "train/street/1443/1.jpg",
+    "sat_path": "train/satellite/1443/1443.jpg",
+    "lat": 40.043,
+    "lon": -74.957,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1444",
+    "uav_path": "train/street/1444/1.jpg",
+    "sat_path": "train/satellite/1444/1444.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1445",
+    "uav_path": "train/street/1445/1.jpg",
+    "sat_path": "train/satellite/1445/1445.jpg",
+    "lat": 40.045,
+    "lon": -74.955,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1446",
+    "uav_path": "train/street/1446/1.jpg",
+    "sat_path": "train/satellite/1446/1446.jpg",
+    "lat": 40.046,
+    "lon": -74.954,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1447",
+    "uav_path": "train/street/1447/1.jpg",
+    "sat_path": "train/satellite/1447/1447.jpg",
+    "lat": 40.047,
+    "lon": -74.953,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1448",
+    "uav_path": "train/street/1448/1.jpg",
+    "sat_path": "train/satellite/1448/1448.jpg",
+    "lat": 40.048,
+    "lon": -74.952,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1449",
+    "uav_path": "train/street/1449/1.jpg",
+    "sat_path": "train/satellite/1449/1449.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1451",
+    "uav_path": "train/street/1451/1.jpg",
+    "sat_path": "train/satellite/1451/1451.jpg",
+    "lat": 40.051,
+    "lon": -74.949,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1452",
+    "uav_path": "train/street/1452/1.jpg",
+    "sat_path": "train/satellite/1452/1452.jpg",
+    "lat": 40.052,
+    "lon": -74.948,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1453",
+    "uav_path": "train/street/1453/1.jpg",
+    "sat_path": "train/satellite/1453/1453.jpg",
+    "lat": 40.053,
+    "lon": -74.947,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1454",
+    "uav_path": "train/street/1454/1.jpg",
+    "sat_path": "train/satellite/1454/1454.jpg",
+    "lat": 40.054,
+    "lon": -74.946,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1455",
+    "uav_path": "train/street/1455/1.jpg",
+    "sat_path": "train/satellite/1455/1455.jpg",
+    "lat": 40.055,
+    "lon": -74.945,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1456",
+    "uav_path": "train/street/1456/1.jpg",
+    "sat_path": "train/satellite/1456/1456.jpg",
+    "lat": 40.056,
+    "lon": -74.944,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1457",
+    "uav_path": "train/street/1457/1.jpg",
+    "sat_path": "train/satellite/1457/1457.jpg",
+    "lat": 40.057,
+    "lon": -74.943,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1458",
+    "uav_path": "train/street/1458/1.jpg",
+    "sat_path": "train/satellite/1458/1458.jpg",
+    "lat": 40.058,
+    "lon": -74.942,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1460",
+    "uav_path": "train/street/1460/1.jpg",
+    "sat_path": "train/satellite/1460/1460.jpg",
+    "lat": 40.06,
+    "lon": -74.94,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1461",
+    "uav_path": "train/street/1461/1.jpg",
+    "sat_path": "train/satellite/1461/1461.jpg",
+    "lat": 40.061,
+    "lon": -74.939,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1462",
+    "uav_path": "train/street/1462/1.jpg",
+    "sat_path": "train/satellite/1462/1462.jpg",
+    "lat": 40.062,
+    "lon": -74.938,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1463",
+    "uav_path": "train/street/1463/1.jpg",
+    "sat_path": "train/satellite/1463/1463.jpg",
+    "lat": 40.063,
+    "lon": -74.937,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1464",
+    "uav_path": "train/street/1464/1.jpg",
+    "sat_path": "train/satellite/1464/1464.jpg",
+    "lat": 40.064,
+    "lon": -74.936,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1465",
+    "uav_path": "train/street/1465/1.jpg",
+    "sat_path": "train/satellite/1465/1465.jpg",
+    "lat": 40.065,
+    "lon": -74.935,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1466",
+    "uav_path": "train/street/1466/1.jpg",
+    "sat_path": "train/satellite/1466/1466.jpg",
+    "lat": 40.066,
+    "lon": -74.934,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1468",
+    "uav_path": "train/street/1468/1.jpg",
+    "sat_path": "train/satellite/1468/1468.jpg",
+    "lat": 40.068,
+    "lon": -74.932,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1469",
+    "uav_path": "train/street/1469/1.jpg",
+    "sat_path": "train/satellite/1469/1469.jpg",
+    "lat": 40.069,
+    "lon": -74.931,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1470",
+    "uav_path": "train/street/1470/1.jpg",
+    "sat_path": "train/satellite/1470/1470.jpg",
+    "lat": 40.07,
+    "lon": -74.93,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1471",
+    "uav_path": "train/street/1471/1.jpg",
+    "sat_path": "train/satellite/1471/1471.jpg",
+    "lat": 40.071,
+    "lon": -74.929,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1472",
+    "uav_path": "train/street/1472/1.jpg",
+    "sat_path": "train/satellite/1472/1472.jpg",
+    "lat": 40.072,
+    "lon": -74.928,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1473",
+    "uav_path": "train/street/1473/1.jpg",
+    "sat_path": "train/satellite/1473/1473.jpg",
+    "lat": 40.073,
+    "lon": -74.927,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1474",
+    "uav_path": "train/street/1474/1.jpg",
+    "sat_path": "train/satellite/1474/1474.jpg",
+    "lat": 40.074,
+    "lon": -74.926,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1476",
+    "uav_path": "train/street/1476/1.jpg",
+    "sat_path": "train/satellite/1476/1476.jpg",
+    "lat": 40.076,
+    "lon": -74.924,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1477",
+    "uav_path": "train/street/1477/1.jpg",
+    "sat_path": "train/satellite/1477/1477.jpg",
+    "lat": 40.077,
+    "lon": -74.923,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1478",
+    "uav_path": "train/street/1478/1.jpg",
+    "sat_path": "train/satellite/1478/1478.jpg",
+    "lat": 40.078,
+    "lon": -74.922,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1479",
+    "uav_path": "train/street/1479/1.jpg",
+    "sat_path": "train/satellite/1479/1479.jpg",
+    "lat": 40.079,
+    "lon": -74.921,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1480",
+    "uav_path": "train/street/1480/1.jpg",
+    "sat_path": "train/satellite/1480/1480.jpg",
+    "lat": 40.08,
+    "lon": -74.92,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1481",
+    "uav_path": "train/street/1481/1.jpg",
+    "sat_path": "train/satellite/1481/1481.jpg",
+    "lat": 40.081,
+    "lon": -74.919,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1482",
+    "uav_path": "train/street/1482/1.jpg",
+    "sat_path": "train/satellite/1482/1482.jpg",
+    "lat": 40.082,
+    "lon": -74.918,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1485",
+    "uav_path": "train/street/1485/1.jpg",
+    "sat_path": "train/satellite/1485/1485.jpg",
+    "lat": 40.085,
+    "lon": -74.915,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1486",
+    "uav_path": "train/street/1486/1.jpg",
+    "sat_path": "train/satellite/1486/1486.jpg",
+    "lat": 40.086,
+    "lon": -74.914,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1488",
+    "uav_path": "train/street/1488/1.jpg",
+    "sat_path": "train/satellite/1488/1488.jpg",
+    "lat": 40.088,
+    "lon": -74.912,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1489",
+    "uav_path": "train/street/1489/1.jpg",
+    "sat_path": "train/satellite/1489/1489.jpg",
+    "lat": 40.089,
+    "lon": -74.911,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1491",
+    "uav_path": "train/street/1491/1.jpg",
+    "sat_path": "train/satellite/1491/1491.jpg",
+    "lat": 40.091,
+    "lon": -74.909,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1492",
+    "uav_path": "train/street/1492/1.jpg",
+    "sat_path": "train/satellite/1492/1492.jpg",
+    "lat": 40.092,
+    "lon": -74.908,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1494",
+    "uav_path": "train/street/1494/1.jpg",
+    "sat_path": "train/satellite/1494/1494.jpg",
+    "lat": 40.094,
+    "lon": -74.906,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1495",
+    "uav_path": "train/street/1495/1.jpg",
+    "sat_path": "train/satellite/1495/1495.jpg",
+    "lat": 40.095,
+    "lon": -74.905,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1496",
+    "uav_path": "train/street/1496/1.jpg",
+    "sat_path": "train/satellite/1496/1496.jpg",
+    "lat": 40.096,
+    "lon": -74.904,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1498",
+    "uav_path": "train/street/1498/1.jpg",
+    "sat_path": "train/satellite/1498/1498.jpg",
+    "lat": 40.098,
+    "lon": -74.902,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1499",
+    "uav_path": "train/street/1499/1.jpg",
+    "sat_path": "train/satellite/1499/1499.jpg",
+    "lat": 40.099,
+    "lon": -74.901,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1500",
+    "uav_path": "train/street/1500/1.jpg",
+    "sat_path": "train/satellite/1500/1500.jpg",
+    "lat": 40.0,
+    "lon": -75.0,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1501",
+    "uav_path": "train/street/1501/1.jpg",
+    "sat_path": "train/satellite/1501/1501.jpg",
+    "lat": 40.001,
+    "lon": -74.999,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1503",
+    "uav_path": "train/street/1503/1.jpg",
+    "sat_path": "train/satellite/1503/1503.jpg",
+    "lat": 40.003,
+    "lon": -74.997,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1504",
+    "uav_path": "train/street/1504/1.jpg",
+    "sat_path": "train/satellite/1504/1504.jpg",
+    "lat": 40.004,
+    "lon": -74.996,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1505",
+    "uav_path": "train/street/1505/1.jpg",
+    "sat_path": "train/satellite/1505/1505.jpg",
+    "lat": 40.005,
+    "lon": -74.995,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1506",
+    "uav_path": "train/street/1506/1.jpg",
+    "sat_path": "train/satellite/1506/1506.jpg",
+    "lat": 40.006,
+    "lon": -74.994,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1507",
+    "uav_path": "train/street/1507/1.jpg",
+    "sat_path": "train/satellite/1507/1507.jpg",
+    "lat": 40.007,
+    "lon": -74.993,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1508",
+    "uav_path": "train/street/1508/1.jpg",
+    "sat_path": "train/satellite/1508/1508.jpg",
+    "lat": 40.008,
+    "lon": -74.992,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1509",
+    "uav_path": "train/street/1509/1.jpg",
+    "sat_path": "train/satellite/1509/1509.jpg",
+    "lat": 40.009,
+    "lon": -74.991,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1510",
+    "uav_path": "train/street/1510/1.jpg",
+    "sat_path": "train/satellite/1510/1510.jpg",
+    "lat": 40.01,
+    "lon": -74.99,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1511",
+    "uav_path": "train/street/1511/1.jpg",
+    "sat_path": "train/satellite/1511/1511.jpg",
+    "lat": 40.011,
+    "lon": -74.989,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1514",
+    "uav_path": "train/street/1514/1.jpg",
+    "sat_path": "train/satellite/1514/1514.jpg",
+    "lat": 40.014,
+    "lon": -74.986,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1515",
+    "uav_path": "train/street/1515/1.jpg",
+    "sat_path": "train/satellite/1515/1515.jpg",
+    "lat": 40.015,
+    "lon": -74.985,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1516",
+    "uav_path": "train/street/1516/1.jpg",
+    "sat_path": "train/satellite/1516/1516.jpg",
+    "lat": 40.016,
+    "lon": -74.984,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1517",
+    "uav_path": "train/street/1517/1.jpg",
+    "sat_path": "train/satellite/1517/1517.jpg",
+    "lat": 40.017,
+    "lon": -74.983,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1518",
+    "uav_path": "train/street/1518/1.jpg",
+    "sat_path": "train/satellite/1518/1518.jpg",
+    "lat": 40.018,
+    "lon": -74.982,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1519",
+    "uav_path": "train/street/1519/1.jpg",
+    "sat_path": "train/satellite/1519/1519.jpg",
+    "lat": 40.019,
+    "lon": -74.981,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1520",
+    "uav_path": "train/street/1520/1.jpg",
+    "sat_path": "train/satellite/1520/1520.jpg",
+    "lat": 40.02,
+    "lon": -74.98,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1521",
+    "uav_path": "train/street/1521/1.jpg",
+    "sat_path": "train/satellite/1521/1521.jpg",
+    "lat": 40.021,
+    "lon": -74.979,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1522",
+    "uav_path": "train/street/1522/1.jpg",
+    "sat_path": "train/satellite/1522/1522.jpg",
+    "lat": 40.022,
+    "lon": -74.978,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1524",
+    "uav_path": "train/street/1524/1.jpg",
+    "sat_path": "train/satellite/1524/1524.jpg",
+    "lat": 40.024,
+    "lon": -74.976,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1526",
+    "uav_path": "train/street/1526/1.jpg",
+    "sat_path": "train/satellite/1526/1526.jpg",
+    "lat": 40.026,
+    "lon": -74.974,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1527",
+    "uav_path": "train/street/1527/1.jpg",
+    "sat_path": "train/satellite/1527/1527.jpg",
+    "lat": 40.027,
+    "lon": -74.973,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1528",
+    "uav_path": "train/street/1528/1.jpg",
+    "sat_path": "train/satellite/1528/1528.jpg",
+    "lat": 40.028,
+    "lon": -74.972,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1530",
+    "uav_path": "train/street/1530/1.jpg",
+    "sat_path": "train/satellite/1530/1530.jpg",
+    "lat": 40.03,
+    "lon": -74.97,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1531",
+    "uav_path": "train/street/1531/1.jpg",
+    "sat_path": "train/satellite/1531/1531.jpg",
+    "lat": 40.031,
+    "lon": -74.969,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1532",
+    "uav_path": "train/street/1532/1.jpg",
+    "sat_path": "train/satellite/1532/1532.jpg",
+    "lat": 40.032,
+    "lon": -74.968,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1533",
+    "uav_path": "train/street/1533/1.jpg",
+    "sat_path": "train/satellite/1533/1533.jpg",
+    "lat": 40.033,
+    "lon": -74.967,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1535",
+    "uav_path": "train/street/1535/1.jpg",
+    "sat_path": "train/satellite/1535/1535.jpg",
+    "lat": 40.035,
+    "lon": -74.965,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1536",
+    "uav_path": "train/street/1536/1.jpg",
+    "sat_path": "train/satellite/1536/1536.jpg",
+    "lat": 40.036,
+    "lon": -74.964,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1537",
+    "uav_path": "train/street/1537/1.jpg",
+    "sat_path": "train/satellite/1537/1537.jpg",
+    "lat": 40.037,
+    "lon": -74.963,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1538",
+    "uav_path": "train/street/1538/1.jpg",
+    "sat_path": "train/satellite/1538/1538.jpg",
+    "lat": 40.038,
+    "lon": -74.962,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1539",
+    "uav_path": "train/street/1539/1.jpg",
+    "sat_path": "train/satellite/1539/1539.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1540",
+    "uav_path": "train/street/1540/1.jpg",
+    "sat_path": "train/satellite/1540/1540.jpg",
+    "lat": 40.04,
+    "lon": -74.96,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1541",
+    "uav_path": "train/street/1541/1.jpg",
+    "sat_path": "train/satellite/1541/1541.jpg",
+    "lat": 40.041,
+    "lon": -74.959,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1542",
+    "uav_path": "train/street/1542/1.jpg",
+    "sat_path": "train/satellite/1542/1542.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1543",
+    "uav_path": "train/street/1543/1.jpg",
+    "sat_path": "train/satellite/1543/1543.jpg",
+    "lat": 40.043,
+    "lon": -74.957,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1544",
+    "uav_path": "train/street/1544/1.jpg",
+    "sat_path": "train/satellite/1544/1544.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1545",
+    "uav_path": "train/street/1545/1.jpg",
+    "sat_path": "train/satellite/1545/1545.jpg",
+    "lat": 40.045,
+    "lon": -74.955,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1546",
+    "uav_path": "train/street/1546/1.jpg",
+    "sat_path": "train/satellite/1546/1546.jpg",
+    "lat": 40.046,
+    "lon": -74.954,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1547",
+    "uav_path": "train/street/1547/1.jpg",
+    "sat_path": "train/satellite/1547/1547.jpg",
+    "lat": 40.047,
+    "lon": -74.953,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1548",
+    "uav_path": "train/street/1548/1.jpg",
+    "sat_path": "train/satellite/1548/1548.jpg",
+    "lat": 40.048,
+    "lon": -74.952,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1549",
+    "uav_path": "train/street/1549/1.jpg",
+    "sat_path": "train/satellite/1549/1549.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1550",
+    "uav_path": "train/street/1550/1.jpg",
+    "sat_path": "train/satellite/1550/1550.jpg",
+    "lat": 40.05,
+    "lon": -74.95,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1551",
+    "uav_path": "train/street/1551/1.jpg",
+    "sat_path": "train/satellite/1551/1551.jpg",
+    "lat": 40.051,
+    "lon": -74.949,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1552",
+    "uav_path": "train/street/1552/1.jpg",
+    "sat_path": "train/satellite/1552/1552.jpg",
+    "lat": 40.052,
+    "lon": -74.948,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1553",
+    "uav_path": "train/street/1553/1.jpg",
+    "sat_path": "train/satellite/1553/1553.jpg",
+    "lat": 40.053,
+    "lon": -74.947,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1554",
+    "uav_path": "train/street/1554/1.jpg",
+    "sat_path": "train/satellite/1554/1554.jpg",
+    "lat": 40.054,
+    "lon": -74.946,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1555",
+    "uav_path": "train/street/1555/1.jpg",
+    "sat_path": "train/satellite/1555/1555.jpg",
+    "lat": 40.055,
+    "lon": -74.945,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1556",
+    "uav_path": "train/street/1556/1.jpg",
+    "sat_path": "train/satellite/1556/1556.jpg",
+    "lat": 40.056,
+    "lon": -74.944,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1557",
+    "uav_path": "train/street/1557/1.jpg",
+    "sat_path": "train/satellite/1557/1557.jpg",
+    "lat": 40.057,
+    "lon": -74.943,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1561",
+    "uav_path": "train/street/1561/1.jpg",
+    "sat_path": "train/satellite/1561/1561.jpg",
+    "lat": 40.061,
+    "lon": -74.939,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1562",
+    "uav_path": "train/street/1562/1.jpg",
+    "sat_path": "train/satellite/1562/1562.jpg",
+    "lat": 40.062,
+    "lon": -74.938,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1565",
+    "uav_path": "train/street/1565/1.jpg",
+    "sat_path": "train/satellite/1565/1565.jpg",
+    "lat": 40.065,
+    "lon": -74.935,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1566",
+    "uav_path": "train/street/1566/1.jpg",
+    "sat_path": "train/satellite/1566/1566.jpg",
+    "lat": 40.066,
+    "lon": -74.934,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1567",
+    "uav_path": "train/street/1567/1.jpg",
+    "sat_path": "train/satellite/1567/1567.jpg",
+    "lat": 40.067,
+    "lon": -74.933,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1568",
+    "uav_path": "train/street/1568/1.jpg",
+    "sat_path": "train/satellite/1568/1568.jpg",
+    "lat": 40.068,
+    "lon": -74.932,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1570",
+    "uav_path": "train/street/1570/1.jpg",
+    "sat_path": "train/satellite/1570/1570.jpg",
+    "lat": 40.07,
+    "lon": -74.93,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1571",
+    "uav_path": "train/street/1571/1.jpg",
+    "sat_path": "train/satellite/1571/1571.jpg",
+    "lat": 40.071,
+    "lon": -74.929,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1572",
+    "uav_path": "train/street/1572/1.jpg",
+    "sat_path": "train/satellite/1572/1572.jpg",
+    "lat": 40.072,
+    "lon": -74.928,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1573",
+    "uav_path": "train/street/1573/1.jpg",
+    "sat_path": "train/satellite/1573/1573.jpg",
+    "lat": 40.073,
+    "lon": -74.927,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1575",
+    "uav_path": "train/street/1575/1.jpg",
+    "sat_path": "train/satellite/1575/1575.jpg",
+    "lat": 40.075,
+    "lon": -74.925,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1576",
+    "uav_path": "train/street/1576/1.jpg",
+    "sat_path": "train/satellite/1576/1576.jpg",
+    "lat": 40.076,
+    "lon": -74.924,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1577",
+    "uav_path": "train/street/1577/1.jpg",
+    "sat_path": "train/satellite/1577/1577.jpg",
+    "lat": 40.077,
+    "lon": -74.923,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1578",
+    "uav_path": "train/street/1578/1.jpg",
+    "sat_path": "train/satellite/1578/1578.jpg",
+    "lat": 40.078,
+    "lon": -74.922,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1579",
+    "uav_path": "train/street/1579/1.jpg",
+    "sat_path": "train/satellite/1579/1579.jpg",
+    "lat": 40.079,
+    "lon": -74.921,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1580",
+    "uav_path": "train/street/1580/1.jpg",
+    "sat_path": "train/satellite/1580/1580.jpg",
+    "lat": 40.08,
+    "lon": -74.92,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1581",
+    "uav_path": "train/street/1581/1.jpg",
+    "sat_path": "train/satellite/1581/1581.jpg",
+    "lat": 40.081,
+    "lon": -74.919,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1582",
+    "uav_path": "train/street/1582/1.jpg",
+    "sat_path": "train/satellite/1582/1582.jpg",
+    "lat": 40.082,
+    "lon": -74.918,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1583",
+    "uav_path": "train/street/1583/1.jpg",
+    "sat_path": "train/satellite/1583/1583.jpg",
+    "lat": 40.083,
+    "lon": -74.917,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1584",
+    "uav_path": "train/street/1584/1.jpg",
+    "sat_path": "train/satellite/1584/1584.jpg",
+    "lat": 40.084,
+    "lon": -74.916,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1585",
+    "uav_path": "train/street/1585/1.jpg",
+    "sat_path": "train/satellite/1585/1585.jpg",
+    "lat": 40.085,
+    "lon": -74.915,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1586",
+    "uav_path": "train/street/1586/1.jpg",
+    "sat_path": "train/satellite/1586/1586.jpg",
+    "lat": 40.086,
+    "lon": -74.914,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1587",
+    "uav_path": "train/street/1587/1.jpg",
+    "sat_path": "train/satellite/1587/1587.jpg",
+    "lat": 40.087,
+    "lon": -74.913,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1588",
+    "uav_path": "train/street/1588/1.jpg",
+    "sat_path": "train/satellite/1588/1588.jpg",
+    "lat": 40.088,
+    "lon": -74.912,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1589",
+    "uav_path": "train/street/1589/1.jpg",
+    "sat_path": "train/satellite/1589/1589.jpg",
+    "lat": 40.089,
+    "lon": -74.911,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1591",
+    "uav_path": "train/street/1591/1.jpg",
+    "sat_path": "train/satellite/1591/1591.jpg",
+    "lat": 40.091,
+    "lon": -74.909,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1592",
+    "uav_path": "train/street/1592/1.jpg",
+    "sat_path": "train/satellite/1592/1592.jpg",
+    "lat": 40.092,
+    "lon": -74.908,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1593",
+    "uav_path": "train/street/1593/1.jpg",
+    "sat_path": "train/satellite/1593/1593.jpg",
+    "lat": 40.093,
+    "lon": -74.907,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1594",
+    "uav_path": "train/street/1594/1.jpg",
+    "sat_path": "train/satellite/1594/1594.jpg",
+    "lat": 40.094,
+    "lon": -74.906,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1595",
+    "uav_path": "train/street/1595/1.jpg",
+    "sat_path": "train/satellite/1595/1595.jpg",
+    "lat": 40.095,
+    "lon": -74.905,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1599",
+    "uav_path": "train/street/1599/1.jpg",
+    "sat_path": "train/satellite/1599/1599.jpg",
+    "lat": 40.099,
+    "lon": -74.901,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1600",
+    "uav_path": "train/street/1600/1.jpg",
+    "sat_path": "train/satellite/1600/1600.jpg",
+    "lat": 40.0,
+    "lon": -75.0,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1602",
+    "uav_path": "train/street/1602/1.jpg",
+    "sat_path": "train/satellite/1602/1602.jpg",
+    "lat": 40.002,
+    "lon": -74.998,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1604",
+    "uav_path": "train/street/1604/1.jpg",
+    "sat_path": "train/satellite/1604/1604.jpg",
+    "lat": 40.004,
+    "lon": -74.996,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1605",
+    "uav_path": "train/street/1605/1.jpg",
+    "sat_path": "train/satellite/1605/1605.jpg",
+    "lat": 40.005,
+    "lon": -74.995,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1606",
+    "uav_path": "train/street/1606/1.jpg",
+    "sat_path": "train/satellite/1606/1606.jpg",
+    "lat": 40.006,
+    "lon": -74.994,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1607",
+    "uav_path": "train/street/1607/1.jpg",
+    "sat_path": "train/satellite/1607/1607.jpg",
+    "lat": 40.007,
+    "lon": -74.993,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1608",
+    "uav_path": "train/street/1608/1.jpg",
+    "sat_path": "train/satellite/1608/1608.jpg",
+    "lat": 40.008,
+    "lon": -74.992,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1609",
+    "uav_path": "train/street/1609/1.jpg",
+    "sat_path": "train/satellite/1609/1609.jpg",
+    "lat": 40.009,
+    "lon": -74.991,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1610",
+    "uav_path": "train/street/1610/1.jpg",
+    "sat_path": "train/satellite/1610/1610.jpg",
+    "lat": 40.01,
+    "lon": -74.99,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1611",
+    "uav_path": "train/street/1611/1.jpg",
+    "sat_path": "train/satellite/1611/1611.jpg",
+    "lat": 40.011,
+    "lon": -74.989,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1612",
+    "uav_path": "train/street/1612/1.jpg",
+    "sat_path": "train/satellite/1612/1612.jpg",
+    "lat": 40.012,
+    "lon": -74.988,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1613",
+    "uav_path": "train/street/1613/1.jpg",
+    "sat_path": "train/satellite/1613/1613.jpg",
+    "lat": 40.013,
+    "lon": -74.987,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1614",
+    "uav_path": "train/street/1614/1.jpg",
+    "sat_path": "train/satellite/1614/1614.jpg",
+    "lat": 40.014,
+    "lon": -74.986,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1615",
+    "uav_path": "train/street/1615/1.jpg",
+    "sat_path": "train/satellite/1615/1615.jpg",
+    "lat": 40.015,
+    "lon": -74.985,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1616",
+    "uav_path": "train/street/1616/1.jpg",
+    "sat_path": "train/satellite/1616/1616.jpg",
+    "lat": 40.016,
+    "lon": -74.984,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1617",
+    "uav_path": "train/street/1617/1.jpg",
+    "sat_path": "train/satellite/1617/1617.jpg",
+    "lat": 40.017,
+    "lon": -74.983,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1618",
+    "uav_path": "train/street/1618/1.jpg",
+    "sat_path": "train/satellite/1618/1618.jpg",
+    "lat": 40.018,
+    "lon": -74.982,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1619",
+    "uav_path": "train/street/1619/1.jpg",
+    "sat_path": "train/satellite/1619/1619.jpg",
+    "lat": 40.019,
+    "lon": -74.981,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1620",
+    "uav_path": "train/street/1620/1.jpg",
+    "sat_path": "train/satellite/1620/1620.jpg",
+    "lat": 40.02,
+    "lon": -74.98,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1622",
+    "uav_path": "train/street/1622/1.jpg",
+    "sat_path": "train/satellite/1622/1622.jpg",
+    "lat": 40.022,
+    "lon": -74.978,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1623",
+    "uav_path": "train/street/1623/1.jpg",
+    "sat_path": "train/satellite/1623/1623.jpg",
+    "lat": 40.023,
+    "lon": -74.977,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1624",
+    "uav_path": "train/street/1624/1.jpg",
+    "sat_path": "train/satellite/1624/1624.jpg",
+    "lat": 40.024,
+    "lon": -74.976,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1625",
+    "uav_path": "train/street/1625/1.jpg",
+    "sat_path": "train/satellite/1625/1625.jpg",
+    "lat": 40.025,
+    "lon": -74.975,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1626",
+    "uav_path": "train/street/1626/1.jpg",
+    "sat_path": "train/satellite/1626/1626.jpg",
+    "lat": 40.026,
+    "lon": -74.974,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1627",
+    "uav_path": "train/street/1627/1.jpg",
+    "sat_path": "train/satellite/1627/1627.jpg",
+    "lat": 40.027,
+    "lon": -74.973,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1628",
+    "uav_path": "train/street/1628/1.jpg",
+    "sat_path": "train/satellite/1628/1628.jpg",
+    "lat": 40.028,
+    "lon": -74.972,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1629",
+    "uav_path": "train/street/1629/1.jpg",
+    "sat_path": "train/satellite/1629/1629.jpg",
+    "lat": 40.029,
+    "lon": -74.971,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1630",
+    "uav_path": "train/street/1630/1.jpg",
+    "sat_path": "train/satellite/1630/1630.jpg",
+    "lat": 40.03,
+    "lon": -74.97,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1631",
+    "uav_path": "train/street/1631/1.jpg",
+    "sat_path": "train/satellite/1631/1631.jpg",
+    "lat": 40.031,
+    "lon": -74.969,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1632",
+    "uav_path": "train/street/1632/1.jpg",
+    "sat_path": "train/satellite/1632/1632.jpg",
+    "lat": 40.032,
+    "lon": -74.968,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1633",
+    "uav_path": "train/street/1633/1.jpg",
+    "sat_path": "train/satellite/1633/1633.jpg",
+    "lat": 40.033,
+    "lon": -74.967,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1634",
+    "uav_path": "train/street/1634/1.jpg",
+    "sat_path": "train/satellite/1634/1634.jpg",
+    "lat": 40.034,
+    "lon": -74.966,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1637",
+    "uav_path": "train/street/1637/1.jpg",
+    "sat_path": "train/satellite/1637/1637.jpg",
+    "lat": 40.037,
+    "lon": -74.963,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1638",
+    "uav_path": "train/street/1638/1.jpg",
+    "sat_path": "train/satellite/1638/1638.jpg",
+    "lat": 40.038,
+    "lon": -74.962,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1639",
+    "uav_path": "train/street/1639/1.jpg",
+    "sat_path": "train/satellite/1639/1639.jpg",
+    "lat": 40.039,
+    "lon": -74.961,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1640",
+    "uav_path": "train/street/1640/1.jpg",
+    "sat_path": "train/satellite/1640/1640.jpg",
+    "lat": 40.04,
+    "lon": -74.96,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1641",
+    "uav_path": "train/street/1641/1.jpg",
+    "sat_path": "train/satellite/1641/1641.jpg",
+    "lat": 40.041,
+    "lon": -74.959,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1642",
+    "uav_path": "train/street/1642/1.jpg",
+    "sat_path": "train/satellite/1642/1642.jpg",
+    "lat": 40.042,
+    "lon": -74.958,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1644",
+    "uav_path": "train/street/1644/1.jpg",
+    "sat_path": "train/satellite/1644/1644.jpg",
+    "lat": 40.044,
+    "lon": -74.956,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1646",
+    "uav_path": "train/street/1646/1.jpg",
+    "sat_path": "train/satellite/1646/1646.jpg",
+    "lat": 40.046,
+    "lon": -74.954,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1647",
+    "uav_path": "train/street/1647/1.jpg",
+    "sat_path": "train/satellite/1647/1647.jpg",
+    "lat": 40.047,
+    "lon": -74.953,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1648",
+    "uav_path": "train/street/1648/1.jpg",
+    "sat_path": "train/satellite/1648/1648.jpg",
+    "lat": 40.048,
+    "lon": -74.952,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1649",
+    "uav_path": "train/street/1649/1.jpg",
+    "sat_path": "train/satellite/1649/1649.jpg",
+    "lat": 40.049,
+    "lon": -74.951,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  },
+  {
+    "id": "1650",
+    "uav_path": "train/street/1650/1.jpg",
+    "sat_path": "train/satellite/1650/1650.jpg",
+    "lat": 40.05,
+    "lon": -74.95,
+    "note": "\u4f7f\u7528\u8857\u666f\u56fe\u50cf\u4f5c\u4e3aUAV\u89c6\u89d2\u8fd1\u4f3c"
+  }
+]
