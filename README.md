@@ -1,4 +1,9 @@
 一、训练相关文件
+数据集准备：
+📌 数据集下载
+https://pan.baidu.com/s/1H_wBnWwikKbaBY1pMPjoqQ
+提取码：hrqp
+将压缩包解压到该项目的根目录下即可。
 1. train.py
 这是完整的训练文件，包含模型训练的所有完整功能、数据预处理、模型架构和训练流程。适用于有充足计算资源（GPU内存、显存等）的环境。
 2. train_simple.py

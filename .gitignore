@@ -40,9 +40,7 @@ results_real/
 final_test_results/
 
 # 图片文件
-*.jpg
 *.jpeg
-*.png
 *.gif
 *.bmp
 *.tiff
